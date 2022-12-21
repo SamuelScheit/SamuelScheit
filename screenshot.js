@@ -36,10 +36,10 @@ async function main() {
 
 	console.log("done. closing browser + server");
 
-	// await app.close();
+	await app.close();
 
-	// await browser.close();
-	// process.exit();
+	await browser.close();
+	process.exit();
 }
 
 main();
