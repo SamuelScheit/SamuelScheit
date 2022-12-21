@@ -37,7 +37,7 @@
 			font-weight: 600;
 			place-self: start end;
 			position: sticky;
-			top: 48%;
+			top: 48vh;
 			text-align: right;
 		}
 
@@ -52,13 +52,13 @@
 			outline: 0.8rem solid var(--background);
 			transition: 1s all ease;
 			position: sticky;
-			top: 50%;
+			top: 50vh;
 		}
 
 		.content {
 			grid-area: content;
 			place-self: start start;
-			font-size: 24px;
+			font-size: 1.3rem;
 
 			div {
 				color: #e2e2e2;
@@ -82,7 +82,7 @@
 		align-items: flex-start;
 
 		.bar {
-			left: 2.5rem;
+			left: 48px;
 		}
 
 		.item {
