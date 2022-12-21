@@ -6,12 +6,14 @@
 
 	--text: #000;
 	--background: #fff;
+	--background-rgb: 255, 255, 255;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
 		--text: #fff;
 		--background: #000;
+		--background-rgb: 13, 13, 13;
 	}
 
 	html {

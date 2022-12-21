@@ -2,12 +2,13 @@ import Lego from "../public/lego.jpeg";
 import Image from "next/image";
 import { Hero } from "../components/hero";
 import { Timeline, TimelineItem } from "../components/timeline";
+import { Navbar } from "../components/navbar";
 
 export default function About() {
 	return (
 		<div className={"About"}>
 			<header>
-				<nav></nav>
+				<Navbar />
 			</header>
 			<main>
 				<Hero />
@@ -29,6 +30,8 @@ export default function About() {
 								borderRadius: 10,
 								float: "right",
 								marginLeft: "1rem",
+								maxWidth: "50%",
+								height: "auto",
 							}}
 							priority
 							width={250}
@@ -46,15 +49,21 @@ export default function About() {
 					<TimelineItem date="August 2014" title="Learning programming">
 						<p>
 							In addition to building with Lego, Samuel enjoyed playing video games, like many other children his age.
-							However, he had to share the family computer with his <a href="https://linktr.ee/GxdAim">brother</a> and
-							parents. <br />
+							However, he had to share the family computer with his{" "}
+							<a rel="noreferrer" target="_blank" href="https://linktr.ee/GxdAim">
+								brother
+							</a>{" "}
+							and parents. <br />
 							<br />
 							As a result, he asked his (grand)parents for a own computer and after negotiating they agreed to purchase one
 							for him, if he learned programming first. <br />
 							<br />
-							Samuel learned the <a href="https://www.c-howto.de/">C</a> programming language because it was the only language
-							they could help him with. He used it to program a Sudoku solver, which he then used to help his grandfather
-							solve sudokus in the newspaper.
+							Samuel learned the{" "}
+							<a rel="noreferrer" target="_blank" href="https://www.c-howto.de/">
+								C
+							</a>{" "}
+							programming language because it was the only language they could help him with. He used it to program a Sudoku
+							solver, which he then used to help his grandfather solve sudokus in the newspaper.
 						</p>
 					</TimelineItem>
 					<TimelineItem date="November 2015" title="A personal computer">
