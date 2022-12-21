@@ -13,7 +13,7 @@ async function main() {
 
 	console.log("launching browser ");
 
-	const browser = await puppeteer.launch();
+	const browser = await puppeteer.launch({ headless: false });
 	const page = await browser.newPage();
 	await page.setViewport({
 		width: 1280,
@@ -22,13 +22,20 @@ async function main() {
 	});
 	await page.emulateMediaFeatures([
 		{ name: "prefers-color-scheme", value: "dark" },
-		// { name: "prefers-reduced-motion", value: "reduce" },
+		{ name: "prefers-reduced-motion", value: "reduce" },
 	]);
 
 	console.log("opening page");
 
 	await page.goto("http://localhost:3000/", { waitUntil: "networkidle0" });
-	await page.waitForTimeout(6000);
+	await page.evaluate((_) => {
+		window.scrollTo(0, window.innerHeight * 2);
+	});
+	await page.waitForTimeout(500);
+	await page.evaluate((_) => {
+		window.scrollTo(0, 0);
+	});
+	await page.waitForTimeout(500);
 
 	console.log("taking screenshot");
 
