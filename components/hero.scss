@@ -37,6 +37,10 @@
 
 				.wrapper {
 					animation: subtitle 7s ease infinite;
+
+					@media (prefers-reduced-motion) {
+						animation: none;
+					}
 				}
 
 				@keyframes subtitle {

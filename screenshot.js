@@ -20,11 +20,15 @@ async function main() {
 		height: 720,
 		deviceScaleFactor: 2,
 	});
-	await page.emulateMediaFeatures([{ name: "prefers-color-scheme", value: "dark" }]);
+	await page.emulateMediaFeatures([
+		{ name: "prefers-color-scheme", value: "dark" },
+		// { name: "prefers-reduced-motion", value: "reduce" },
+	]);
 
 	console.log("opening page");
 
-	await page.goto("http://localhost:3000/");
+	await page.goto("http://localhost:3000/", { waitUntil: "networkidle0" });
+	await page.waitForTimeout(6000);
 
 	console.log("taking screenshot");
 
@@ -32,10 +36,10 @@ async function main() {
 
 	console.log("done. closing browser + server");
 
-	await app.close();
+	// await app.close();
 
-	await browser.close();
-	process.exit();
+	// await browser.close();
+	// process.exit();
 }
 
 main();
