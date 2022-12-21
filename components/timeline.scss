@@ -24,7 +24,7 @@
 	.item {
 		display: grid;
 		grid-template-areas: "date dot content";
-		grid-template-columns: minmax(0, 1fr) 100px minmax(0, 1fr);
+		grid-template-columns: 1fr 100px 1fr;
 		max-width: 1300px;
 		padding: 5rem 0;
 
@@ -58,15 +58,16 @@
 		.content {
 			grid-area: content;
 			place-self: start start;
-			font-size: 1.2rem;
-			padding-right: 2rem;
+			font-size: 24px;
 
-			p {
+			div {
 				color: #e2e2e2;
 			}
 
 			h1 {
 				font-size: 2.5rem;
+				word-break: break-word;
+
 				font-weight: 600;
 				margin-bottom: 0.5rem;
 			}
@@ -88,8 +89,15 @@
 			grid-template-areas:
 				"dot date"
 				"dot content";
-			grid-template-columns: 100px minmax(0, 1fr);
-			grid-template-rows: auto minmax(0, 1fr);
+			grid-template-columns: 100px 1fr;
+			// grid-template-columns: 100px 1fr;
+			grid-template-rows: auto 1fr;
+
+			.content {
+				h1 {
+					font-size: 2rem;
+				}
+			}
 
 			.date {
 				position: relative;

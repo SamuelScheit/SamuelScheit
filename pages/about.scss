@@ -7,6 +7,13 @@ body {
 	main {
 		display: flex;
 		flex-direction: column;
+		// justify-content: center;
+		align-items: center;
+
+		.timeline {
+			max-width: calc(var(--container) + 4rem);
+			padding-right: 2rem;
+		}
 	}
 
 	section {
@@ -15,5 +22,6 @@ body {
 		min-height: 50vh;
 		background: var(--background);
 		z-index: 1;
+		width: 100%;
 	}
 }

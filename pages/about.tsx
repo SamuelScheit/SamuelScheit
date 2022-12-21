@@ -14,7 +14,7 @@ export default function About() {
 				<Hero />
 				<Timeline>
 					<TimelineItem date="November 2003" title="Life">
-						<p>
+						<div>
 							Samuel Scheit was born in November 2003 in Munich, Germany. <br />
 							<br />
 							His father grew up in Konstanz, Germany, studied technical computer science, while his grandfather studied
@@ -22,7 +22,7 @@ export default function About() {
 							<br />
 							Since both his father and grandfather worked in computer engineering, both had an interest in introducing their
 							(grand)son to technology at an early age.
-						</p>
+						</div>
 					</TimelineItem>
 					<TimelineItem date="October 2013" title="Lego Mindstorms">
 						<Image
@@ -38,16 +38,16 @@ export default function About() {
 							src={Lego}
 							alt="Lego"
 						/>
-						<p>
+						<div>
 							At the age of 10, Samuel was introduced to robotics through the construction and visual programming of a Lego
 							Mindstorms robot, which sparked a passion for building projects.
 							<br />
 							<br />
 							He enjoyed the sense of accomplishment he gained from this activity and was eager to learn more.
-						</p>
+						</div>
 					</TimelineItem>
 					<TimelineItem date="August 2014" title="Learning programming">
-						<p>
+						<div>
 							In addition to building with Lego, Samuel enjoyed playing video games, like many other children his age.
 							However, he had to share the family computer with his{" "}
 							<a rel="noreferrer" target="_blank" href="https://linktr.ee/GxdAim">
@@ -64,20 +64,20 @@ export default function About() {
 							</a>{" "}
 							programming language because it was the only language they could help him with. He used it to program a Sudoku
 							solver, which he then used to help his grandfather solve sudokus in the newspaper.
-						</p>
+						</div>
 					</TimelineItem>
 					<TimelineItem date="November 2015" title="A personal computer">
-						<p>
+						<div>
 							As promised, he received his first personal computer, which he of course used for <del>programming</del> playing
 							Minecraft. <br />
 							<br />
 							Within the game, he preferred playing in creative mode, where he was able to create complex structures similar
 							to logic gates using &quot;command blocks and redstone&quot;. <br />
 							However, playing alone was not as enjoyable as playing with friends, so he learned how to host servers for them.
-						</p>
+						</div>
 					</TimelineItem>
 					<TimelineItem date="June 2016" title="Linux">
-						<p>
+						<div>
 							Samuel wanted to host multiple Minecraft servers and needed to find a way to keep them running without
 							constantly relying on his personal computer. <br />
 							<br />
@@ -86,10 +86,10 @@ export default function About() {
 							Through this process, he gained knowledge about operating systems and became proficient in using the command
 							line efficiently. <br />
 							However, he encountered a problem with managing multiple servers, as he did not have an overview of them.
-						</p>
+						</div>
 					</TimelineItem>
 					<TimelineItem date="February 2017" title="Web development">
-						<p>
+						<div>
 							Samuel wanted to create a website that provided an overview of his Minecraft servers, so he had to learn HTML
 							and CSS. <br />
 							However, a static website just for viewing was not enough, he also wanted to manage those servers. <br />
@@ -100,7 +100,7 @@ export default function About() {
 								This
 							</a>{" "}
 							marked the beginning of his journey as a developer and the start of many subsequent projects.
-						</p>
+						</div>
 					</TimelineItem>
 				</Timeline>
 				<section className="">
