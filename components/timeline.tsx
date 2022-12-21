@@ -19,7 +19,7 @@ export function TimelineItem(
 	}
 ) {
 	return (
-		<div {...props} className="item">
+		<div style={props.style} className="item">
 			<div className="date">{props.date instanceof Date ? props.date.toDateString() : props.date}</div>
 			<div className="dot" />
 			<div className="content">

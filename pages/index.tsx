@@ -2,6 +2,9 @@ import Image from "next/image";
 import { Hero } from "../components/hero";
 import { Timeline, TimelineItem } from "../components/timeline";
 import Lego from "../public/lego.jpeg";
+export const config = {
+	unstable_runtimeJS: false,
+};
 
 export default function Home() {
 	return (
