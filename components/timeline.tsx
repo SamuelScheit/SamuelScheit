@@ -23,7 +23,7 @@ export function TimelineItem(
 			<div className="date">{props.date instanceof Date ? props.date.toDateString() : props.date}</div>
 			<div className="dot" />
 			<div className="content">
-				<h1>{props.title}</h1>
+				<h2>{props.title}</h2>
 				{props.text?.split("\n").map((x) => (
 					<p key={x}>
 						{x}

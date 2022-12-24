@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Image from "next/image";
 import { Hero } from "../components/hero";
 import { Timeline, TimelineItem } from "../components/timeline";
@@ -9,6 +10,10 @@ export const config = {
 export default function Home() {
 	return (
 		<div className={"About"}>
+			<Head>
+				<title>Samuel Scheit</title>
+				<meta name="description" content="Samuel Scheit - Developer, Student, Founder" />
+			</Head>
 			<header></header>
 			<main>
 				<Hero />
@@ -100,7 +105,7 @@ export default function Home() {
 							<br />
 							<br />
 							<a rel="noreferrer" target="_blank" href="https://github.com/SamuelScheit/minecraft-server-admin-panel">
-								This
+								This project
 							</a>{" "}
 							marked the beginning of his journey as a developer and the start of many subsequent projects.
 						</div>
