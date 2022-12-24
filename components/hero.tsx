@@ -47,7 +47,7 @@ export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDiv
 					</div>
 				</div>
 				<div className="avatar">
-					<Image priority width={250} src={Avatar} alt="Avatar" />
+					<Image priority width={250} src={Avatar} alt="Samuel Scheit" />
 				</div>
 			</div>
 		</section>
