@@ -7,7 +7,8 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "next lint",
-		"screenshot": "node screenshot.js"
+		"screenshot": "node screenshot.js",
+		"export": "next export && next-export-optimize-images"
 	},
 	"dependencies": {
 		"@next/font": "13.0.7",
@@ -25,6 +26,7 @@
 		"typescript": "4.9.4"
 	},
 	"devDependencies": {
+		"next-export-optimize-images": "^2.0.0",
 		"puppeteer": "^19.4.1"
 	}
 }
