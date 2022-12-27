@@ -1,9 +1,16 @@
 html,
 body {
-	font-size: 20px;
-
 	@media screen and (max-width: 700px) {
 		font-size: initial;
+
+		.About section {
+			justify-content: flex-start;
+
+			.grid {
+				position: relative;
+				top: 15%;
+			}
+		}
 	}
 }
 
@@ -23,7 +30,7 @@ body {
 	section {
 		display: flex;
 		flex-direction: column;
-		min-height: 50vh;
+		min-height: 100vh;
 		background: var(--background);
 		z-index: 1;
 		width: 100%;

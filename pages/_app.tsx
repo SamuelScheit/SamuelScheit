@@ -1,7 +1,7 @@
-import "./about.scss";
 import "../styles/globals.scss";
+import "../components/about.scss";
 import "../components/hero.scss";
-import "../components/navbar.scss";
+import "../components/projects.scss";
 import "../components/timeline.scss";
 import type { AppProps } from "next/app";
 

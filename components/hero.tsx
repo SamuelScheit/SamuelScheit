@@ -1,4 +1,7 @@
 import Avatar from "../public/avatar.png";
+import GitHub from "../public/github.svg";
+import Twitter from "../public/twitter.svg";
+import LinkedIn from "../public/linkedin.svg";
 import Image from "next/image";
 
 function RepeatFirstElement(
@@ -13,6 +16,8 @@ function RepeatFirstElement(
 		</div>
 	);
 }
+
+console.log(GitHub);
 
 export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>) {
 	return (
@@ -49,6 +54,17 @@ export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDiv
 				<div className="avatar">
 					<Image priority width={250} src={Avatar} alt="Samuel Scheit" />
 				</div>
+			</div>
+			<div className="links">
+				<a href="https://github.com/SamuelScheit/" target="_blank" rel="noreferrer">
+					<GitHub />
+				</a>
+				<a className="linkedin" href="https://www.linkedin.com/in/samuel-scheit-343436247/" target="_blank" rel="noreferrer">
+					<LinkedIn />
+				</a>
+				<a className="twitter" href="https://twitter.com/SamuelScheit" target="_blank" rel="noreferrer">
+					<Twitter />
+				</a>
 			</div>
 		</section>
 	);
