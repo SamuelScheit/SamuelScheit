@@ -1,38 +1,38 @@
-.links {
-	position: absolute;
-	right: 2rem;
-	display: flex;
-	flex-direction: row;
-	writing-mode: tb;
-	gap: 3rem;
-
-	a {
-		color: var(--text);
-		transition: 0.2s ease;
-	}
-
-	a:hover {
-		transform: scale(1.1);
-
-		&.twitter {
-			color: #1da1f2;
-		}
-
-		&.linkedin {
-			color: #0077b5;
-		}
-	}
-
-	svg {
-		width: 2rem;
-		height: 2rem;
-	}
-}
-
 .hero {
 	display: flex;
 	justify-content: center;
 	height: 100vh;
+	position: relative;
+
+	.links {
+		position: absolute;
+		right: 2rem;
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+
+		a {
+			color: var(--text);
+			transition: 0.2s ease;
+		}
+
+		a:hover {
+			transform: scale(1.1);
+
+			&.twitter {
+				color: #1da1f2;
+			}
+
+			&.linkedin {
+				color: #0077b5;
+			}
+		}
+
+		svg {
+			width: 2rem;
+			height: 2rem;
+		}
+	}
 
 	.grid {
 		display: flex;
@@ -108,19 +108,20 @@
 		}
 	}
 
-	@media screen and (max-width: 700px) {
+	@media screen and (max-width: 800px) {
+		justify-content: space-around;
+
 		.links {
-			bottom: 4rem;
-			flex-direction: column;
-			width: 100%;
+			flex-direction: row;
 			justify-content: center;
-			right: auto;
+			position: static;
 		}
 
 		.grid {
 			flex-direction: column;
 			grid-gap: 3rem;
 			padding: 0 5%;
+			position: relative;
 
 			.avatar {
 				padding: 0 3rem;

@@ -1,38 +1,32 @@
 html,
 body {
-	@media screen and (max-width: 700px) {
+	@media screen and (max-width: 800px) {
 		font-size: initial;
-
-		.About section {
-			justify-content: flex-start;
-
-			.grid {
-				position: relative;
-				top: 15%;
-			}
-		}
 	}
 }
 
+main {
+	display: flex;
+	flex-direction: column;
+	// justify-content: center;
+	align-items: center;
+
+	.timeline {
+		max-width: calc(var(--container) + 4rem);
+		padding-right: 2rem;
+	}
+}
+
+section {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	background: var(--background);
+	z-index: 1;
+	width: 100%;
+}
+
 .About {
-	main {
-		display: flex;
-		flex-direction: column;
-		// justify-content: center;
-		align-items: center;
-
-		.timeline {
-			max-width: calc(var(--container) + 4rem);
-			padding-right: 2rem;
-		}
-	}
-
-	section {
-		display: flex;
-		flex-direction: column;
-		min-height: 100vh;
-		background: var(--background);
-		z-index: 1;
-		width: 100%;
-	}
+	background: var(--background);
+	z-index: 1;
 }

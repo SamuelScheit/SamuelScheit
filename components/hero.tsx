@@ -3,6 +3,7 @@ import GitHub from "../public/github.svg";
 import Twitter from "../public/twitter.svg";
 import LinkedIn from "../public/linkedin.svg";
 import Image from "next/image";
+import { ReactNode } from "react";
 
 function RepeatFirstElement(
 	props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement> & {
@@ -16,8 +17,6 @@ function RepeatFirstElement(
 		</div>
 	);
 }
-
-console.log(GitHub);
 
 export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>) {
 	return (

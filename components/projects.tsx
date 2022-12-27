@@ -1,9 +1,19 @@
+import { ReactNode, useState, useRef } from "react";
 import Image from "next/image";
 import Fosscord from "../public/fosscord.png";
 import DiscordBotClient from "../public/discord_bot_client.png";
 import Trenite from "../public/trenite.png";
 import CarcassonneAI from "../public/carcassonne_ai.png";
 import PuppeteerStream from "../public/puppeteer_stream.png";
+
+export function Card(props: { href?: string; children: ReactNode }) {
+	return (
+		<a rel="noreferrer" target="_blank" href={props.href} className="card">
+			<div className="glow" />
+			{props.children}
+		</a>
+	);
+}
 
 export function Projects() {
 	return (
@@ -21,25 +31,21 @@ export function Projects() {
 			</h2>
 
 			<div className="list">
-				<a rel="noreferrer" target="_blank" href="https://fosscord.com" className="card">
+				<Card href="https://fosscord.com">
 					<Image style={{ aspectRatio: "2 / 1" }} src={Fosscord} alt="Fosscord" />
-				</a>
-
-				<a rel="noreferrer" target="_blank" href="https://github.com/SamuelScheit/discord-bot-client" className="card">
+				</Card>
+				<Card href="https://github.com/SamuelScheit/discord-bot-client">
 					<Image style={{ aspectRatio: "2 / 1" }} src={DiscordBotClient} alt="Discord Bot Client" />
-				</a>
-
-				<a rel="noreferrer" target="_blank" href="https://github.com/Trenite/Trenite" className="card">
+				</Card>
+				<Card href="https://github.com/Trenite/Trenite">
 					<Image style={{ aspectRatio: "2 / 1" }} src={Trenite} alt="Trenite Discord Bot" />
-				</a>
-
-				<a rel="noreferrer" target="_blank" href="https://github.com/SamuelScheit/puppeteer-stream" className="card">
+				</Card>
+				<Card href="https://github.com/SamuelScheit/puppeteer-stream">
 					<Image style={{ aspectRatio: "2 / 1" }} src={PuppeteerStream} alt="Puppeteer stream" />
-				</a>
-
-				<a rel="noreferrer" target="_blank" href="https://github.com/SamuelScheit/carcassonne-ai" className="card">
+				</Card>
+				<Card href="https://github.com/SamuelScheit/carcassonne-ai">
 					<Image style={{ aspectRatio: "2 / 1" }} src={CarcassonneAI} alt="Carcassonne AI" />
-				</a>
+				</Card>
 			</div>
 		</section>
 	);
