@@ -6,6 +6,7 @@ async function main() {
 		dir: __dirname,
 		hostname: "localhost",
 		port: 3000,
+		dev: true,
 	});
 	const appUrl = `http://${app.hostname}:${app.port}`;
 	console.log(`started server on ${app.port}, url: ${appUrl}`);
@@ -13,7 +14,9 @@ async function main() {
 
 	console.log("launching browser ");
 
-	const browser = await puppeteer.launch({ headless: true });
+	const browser = await puppeteer.launch({
+		headless: false,
+	});
 	const page = await browser.newPage();
 	await page.setViewport({
 		width: 1280,
@@ -29,13 +32,12 @@ async function main() {
 
 	await page.goto("http://localhost:3000/", { waitUntil: "networkidle0" });
 	await page.evaluate((_) => {
-		window.scrollTo(0, window.innerHeight * 2);
+		document.querySelectorAll('[loading="lazy"]').forEach((x) => {
+			x.attributes.removeNamedItem("loading");
+		});
 	});
 	await page.waitForTimeout(500);
-	await page.evaluate((_) => {
-		window.scrollTo(0, 0);
-	});
-	await page.waitForTimeout(500);
+	await page.waitForNetworkIdle();
 
 	console.log("taking screenshot");
 
