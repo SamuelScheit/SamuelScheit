@@ -17,10 +17,10 @@ export function Card(props: { href?: string; children: ReactNode }) {
 
 export function Projects() {
 	return (
-		<section className="projects">
+		<section className="projects" id="projects">
 			<h2
 				style={{
-					fontSize: "3rem",
+					fontSize: "4rem",
 					fontWeight: 700,
 					textAlign: "center",
 					marginTop: "4rem",

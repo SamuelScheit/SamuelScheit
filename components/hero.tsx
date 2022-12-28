@@ -1,9 +1,5 @@
 import Avatar from "../public/avatar.png";
-import GitHub from "../public/github.svg";
-import Twitter from "../public/twitter.svg";
-import LinkedIn from "../public/linkedin.svg";
 import Image from "next/image";
-import { ReactNode } from "react";
 
 function RepeatFirstElement(
 	props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement> & {
@@ -21,6 +17,17 @@ function RepeatFirstElement(
 export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>) {
 	return (
 		<section {...props} className="hero">
+			<div className="navigation">
+				<a className="hover-animation" href="#projects">
+					Projects
+				</a>
+				<a className="hover-animation" href="#about">
+					About
+				</a>
+				<a className="hover-animation" href="#contact">
+					Contact
+				</a>
+			</div>
 			<div className="grid">
 				<div className="title">
 					<h1>Samuel Scheit</h1>
@@ -54,17 +61,7 @@ export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDiv
 					<Image priority width={250} src={Avatar} alt="Samuel Scheit" />
 				</div>
 			</div>
-			<div className="links">
-				<a href="https://github.com/SamuelScheit/" target="_blank" rel="noreferrer">
-					<GitHub />
-				</a>
-				<a className="linkedin" href="https://www.linkedin.com/in/samuel-scheit-343436247/" target="_blank" rel="noreferrer">
-					<LinkedIn />
-				</a>
-				<a className="twitter" href="https://twitter.com/SamuelScheit" target="_blank" rel="noreferrer">
-					<Twitter />
-				</a>
-			</div>
+			<div></div>
 		</section>
 	);
 }

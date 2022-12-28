@@ -16,6 +16,7 @@ export function TimelineItem(
 		date?: string | Date;
 		title?: string;
 		text?: string;
+		titleStyle?: React.CSSProperties;
 	}
 ) {
 	return (
@@ -23,7 +24,7 @@ export function TimelineItem(
 			<div className="date">{props.date instanceof Date ? props.date.toDateString() : props.date}</div>
 			<div className="dot" />
 			<div className="content">
-				<h2>{props.title}</h2>
+				{props.title && <h2 style={props.titleStyle}>{props.title}</h2>}
 				{props.text?.split("\n").map((x) => (
 					<p key={x}>
 						{x}

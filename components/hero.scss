@@ -1,36 +1,28 @@
 .hero {
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 	height: 100vh;
 	position: relative;
+	max-width: none;
+	background: blue;
 
-	.links {
-		position: absolute;
-		right: 2rem;
+	.navigation {
 		display: flex;
-		flex-direction: column;
-		gap: 3rem;
+		justify-content: space-evenly;
+		max-width: 800px;
+		width: 100%;
+		text-align: center;
+		place-self: center;
+		margin-top: 2rem;
 
 		a {
-			color: var(--text);
-			transition: 0.2s ease;
+			font-size: 1.5rem;
+			font-weight: 600;
+			color: var(--text-secondary);
 		}
 
 		a:hover {
-			transform: scale(1.1);
-
-			&.twitter {
-				color: #1da1f2;
-			}
-
-			&.linkedin {
-				color: #0077b5;
-			}
-		}
-
-		svg {
-			width: 2rem;
-			height: 2rem;
+			color: var(--text);
 		}
 	}
 
@@ -117,11 +109,16 @@
 			position: static;
 		}
 
+		.navigation {
+			position: static;
+		}
+
 		.grid {
 			flex-direction: column;
 			grid-gap: 3rem;
 			padding: 0 5%;
 			position: relative;
+			top: -5%;
 
 			.avatar {
 				padding: 0 3rem;
