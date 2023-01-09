@@ -1,4 +1,4 @@
-[![samuelscheit](https://user-images.githubusercontent.com/34555296/210084509-2b66b69c-2c67-4787-ba91-b8d53203254c.png)](https://samuel.scheit.com)
+[![samuelscheit](https://user-images.githubusercontent.com/34555296/210084509-2b66b69c-2c67-4787-ba91-b8d53203254c.png)](https://samuelscheit.com)
 
 
 <p float="left" align="center">
