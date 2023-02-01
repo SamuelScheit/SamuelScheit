@@ -1,4 +1,7 @@
 #contact {
 	align-items: center;
 	padding-top: 6rem;
+	z-index: 1;
+	position: relative;
+	background: var(--background);
 }
