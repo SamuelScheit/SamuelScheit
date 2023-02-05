@@ -1,4 +1,5 @@
 import "../styles/globals.scss";
+import "../components/footer.scss";
 import "../components/about.scss";
 import "../components/hero.scss";
 import "../components/contact.scss";
