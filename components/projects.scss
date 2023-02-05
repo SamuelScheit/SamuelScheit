@@ -30,13 +30,17 @@
 		background-size: cover;
 		justify-content: center;
 		align-items: center;
-		transition: 0.2s ease all;
 		cursor: pointer;
 		position: relative;
 
-		transition-duration: 300ms;
-		transition-property: transform, box-shadow;
-		transition-timing-function: ease-out;
+		&,
+		.card {
+			transition-duration: 300ms;
+			transition-property: transform, box-shadow;
+			transition-timing-function: ease-out;
+			transition: 0.2s ease all;
+		}
+
 		transform: rotate3d(0);
 		box-shadow: 0 1px 5px #00000099;
 

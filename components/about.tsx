@@ -106,15 +106,11 @@ export function About() {
 						For this, he learned PHP and SQL in order to make the site interactive and store the servers in a database.
 						<br />
 						<br />
-						<a
-							className="hover-animation"
-							rel="noreferrer"
-							target="_blank"
-							href="https://github.com/SamuelScheit/minecraft-server-admin-panel"
-						>
-							This project
-						</a>{" "}
-						marked the beginning of his journey as a developer and the start of many subsequent projects.
+						This project marked the beginning of his journey as a developer and the start of many{" "}
+						<a className="hover-animation" href="#projects">
+							subsequent Projects
+						</a>
+						.
 					</div>
 				</TimelineItem>
 			</Timeline>

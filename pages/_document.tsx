@@ -1,5 +1,5 @@
 import { Html, Head, Main, NextScript } from "next/document";
-import Script from "next/script";
+import { glowCards } from "../components/projects";
 
 export default function Document() {
 	return (
@@ -15,7 +15,13 @@ export default function Document() {
 			<body>
 				<Main />
 				<NextScript />
-				<script defer async src="/cards.js" type="text/javascript" />
+				<script
+					async
+					defer
+					dangerouslySetInnerHTML={{
+						__html: `${glowCards.toString()}; window.addEventListener("DOMContentLoaded", glowCards);`,
+					}}
+				/>
 			</body>
 		</Html>
 	);
