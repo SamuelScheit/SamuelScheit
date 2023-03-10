@@ -148,8 +148,8 @@ export function About() {
 						<br />
 						<br />
 						That is why he founded <Link href="https://fosscord.com/">Fosscord</Link>, a platform that is backwards compatible
-						to discord that enables you to have control over your conversations while still being able to use Discord clients,
-						bots, and libraries.
+						to discord that enables users to have control over their conversations while still being able to use Discord
+						clients, bots, and libraries.
 						<br />
 						<br />
 					</div>
@@ -163,7 +163,7 @@ export function About() {
 						Discord/Fosscord.
 						<br />
 						<br />
-						That is why he founded <Link href="https://trant.app/">Trant</Link>, a messenger that allows you to reach your
+						That is why he founded <Link href="https://trant.app/">Trant</Link>, a messenger that allows users to reach their
 						friends no matter what platform they use e.g. WhatsApp, Telegram, Discord/Fosscord.
 					</div>
 				</TimelineItem>
