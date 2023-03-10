@@ -2,7 +2,7 @@ import Head from "next/head";
 import { About } from "../components/about";
 import { Hero } from "../components/hero";
 import { Projects } from "../components/projects";
-import { Footer } from "../components/footer";
+import { Contact } from "../components/contact";
 
 import GitHub from "../public/github.svg";
 import Twitter from "../public/twitter.svg";
@@ -35,7 +35,7 @@ export default function Home() {
 					<Hero />
 					<Projects />
 					<About />
-					<Footer />
+					<Contact />
 				</div>
 				<div className="mail"></div>
 			</div>
