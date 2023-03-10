@@ -32,32 +32,10 @@ export function About() {
 						(grand)son to technology at an early age.
 					</div>
 				</TimelineItem>
-				<TimelineItem date="October 2013" title="Lego Mindstorms">
-					<Image
-						style={{
-							borderRadius: 10,
-							float: "left",
-							marginRight: "1rem",
-							maxWidth: "40%",
-							height: "auto",
-						}}
-						priority
-						width={250}
-						src={Lego}
-						alt="Lego"
-					/>
-					<div>
-						At the age of 10, Samuel was introduced to robotics through the construction and visual programming of a Lego
-						Mindstorms robot, which sparked a passion for building projects.
-						<br />
-						<br />
-						He enjoyed the sense of accomplishment he gained from this activity and was eager to learn more.
-					</div>
-				</TimelineItem>
 				<TimelineItem date="August 2014" title="Learning programming">
 					<div>
-						In addition to building with Lego, Samuel enjoyed playing video games, like many other children his age. However, he
-						had to share the family computer with his <Link href="https://linktr.ee/GxdAim">brother</Link> and parents. <br />
+						Samuel enjoyed playing video games, like many other children his age. However, he had to share the family computer
+						with his <Link href="https://linktr.ee/GxdAim">brother</Link> and parents. <br />
 						<br />
 						As a result, he asked his (grand)parents for a own computer and after negotiating they agreed to purchase one for
 						him, if he learned programming first. <br />
@@ -144,14 +122,12 @@ export function About() {
 						Samuel wanted to create an alternative platform to Discord that is free, open-source and can be self-hosted.
 						<br />
 						<br />
-						However he still wanted to be able to communicate with his friends and the bots he made prior.
+						However he still wanted to be able to communicate with his friends and use the bots he made prior.
 						<br />
 						<br />
 						That is why he founded <Link href="https://fosscord.com/">Fosscord</Link>, a platform that is backwards compatible
 						to discord that enables users to have control over their conversations while still being able to use Discord
 						clients, bots, and libraries.
-						<br />
-						<br />
 					</div>
 				</TimelineItem>
 				<TimelineItem date="January 2022" title="Trant">
