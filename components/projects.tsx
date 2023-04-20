@@ -1,6 +1,6 @@
 import { ReactNode, useState, useRef } from "react";
 import Image from "next/image";
-import Fosscord from "../public/fosscord.png";
+import Spacebar from "../public/spacebar.png";
 import DiscordBotClient from "../public/discord_bot_client.png";
 import Trenite from "../public/trenite.png";
 import CarcassonneAI from "../public/carcassonne_ai.png";
@@ -32,13 +32,10 @@ export function Projects() {
 
 			<div className="list">
 				<Card href="https://fosscord.com">
-					<Image style={{ aspectRatio: "2 / 1" }} src={Fosscord} alt="Fosscord" />
+					<Image style={{ aspectRatio: "2 / 1" }} src={Spacebar} alt="Spacebar" />
 				</Card>
 				<Card href="https://github.com/SamuelScheit/discord-bot-client">
 					<Image style={{ aspectRatio: "2 / 1" }} src={DiscordBotClient} alt="Discord Bot Client" />
-				</Card>
-				<Card href="https://github.com/Trenite/Trenite">
-					<Image style={{ aspectRatio: "2 / 1" }} src={Trenite} alt="Trenite Discord Bot" />
 				</Card>
 				<Card href="https://github.com/SamuelScheit/puppeteer-stream">
 					<Image style={{ aspectRatio: "2 / 1" }} src={PuppeteerStream} alt="Puppeteer stream" />
