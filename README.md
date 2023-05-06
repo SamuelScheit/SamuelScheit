@@ -10,7 +10,7 @@
 <p float="left" align="center">
   <a href="https://www.linkedin.com/in/samuel-scheit-343436247/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30" /></a>
   &nbsp;
-  <a href="https://twitter.com/SamuelScheit"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Twitter%2C_Inc..svg" width="30" /></a>
+  <a href="https://twitter.com/SamuelScheit"><img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" width="30" /></a>
   &nbsp;
 </p>
 
