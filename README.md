@@ -1,4 +1,4 @@
-[![samuelscheit](https://user-images.githubusercontent.com/34555296/226123233-f76b0c5f-7323-4f8f-989e-08a8d043ed5a.png)](https://samuelscheit.com)
+[![samuelscheit](https://github.com/SamuelScheit/SamuelScheit/assets/34555296/f8e1004d-2661-4897-9237-da99bbe030f2)](https://samuelscheit.com)
 
 <p float="left" align="center">
 <a href="https://spacebar.chat/"><img src="https://repository-images.githubusercontent.com/333481559/4b828dea-78ea-4c02-bd0c-dcb450f99d17" width="270" />
