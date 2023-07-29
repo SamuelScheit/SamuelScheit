@@ -42,8 +42,8 @@ export function About() {
 				<TimelineItem date="November 2015" title="A personal computer">
 					<div>
 						As promised, I received my first personal computer, which I of course used for <del>programming</del> playing
-						Minecraft. <br /> <br /> Within the game, I liked using "command blocks and redstone", which are similar to logic
-						gates and simple programming constructs.
+						Minecraft. <br /> <br /> Within the game, I liked using &quot;command blocks and redstone&quot;, which are similar
+						to logic gates and simple programming constructs.
 						<br /> <br /> However, playing alone was not as enjoyable as playing with friends, so I learned how to host servers
 						for them.
 					</div>
@@ -51,10 +51,10 @@ export function About() {
 				<TimelineItem date="June 2016" title="Linux">
 					<div>
 						I wanted to host multiple Minecraft servers and needed to find a way to keep them running without constantly relying
-						on my personal computer. <br /> <br /> I used an old laptop from my parents' work and installed Linux, as it was
-						much more efficient and able to host multiple servers at the same time. <br /> Through this process, I learned a lot
-						about operating systems and hosting servers. <br /> <br /> However, I encountered a problem with managing multiple
-						servers, as I did not have an overview of them.
+						on my personal computer. <br /> <br /> I used an old laptop from my parents&apos; work and installed Linux, as it
+						was much more efficient and able to host multiple servers at the same time. <br /> Through this process, I learned a
+						lot about operating systems and hosting servers. <br /> <br /> However, I encountered a problem with managing
+						multiple servers, as I did not have an overview of them.
 					</div>
 				</TimelineItem>
 				<TimelineItem date="February 2017" title="Web development">
@@ -89,7 +89,7 @@ export function About() {
 						and gained experience doing commissioned work. <br /> <br /> To make it easier to oversee my bots, I needed a
 						user-friendly interface and I developed a tool called
 						<Link href="https://github.com/SamuelScheit/discord-bot-client">Discord Bot Client</Link>. <br /> <br /> But as it
-						made use of Discord's official client, Discord shut it down alongside my account and all of my bots.
+						made use of Discord&apos;s official client, Discord shut it down alongside my account and all of my bots.
 					</div>
 				</TimelineItem>
 				<TimelineItem date="January 2021" title="Fosscord">
