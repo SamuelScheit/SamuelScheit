@@ -16,6 +16,13 @@ export function Contact() {
 					<label htmlFor="message">Message</label>
 					<textarea name="message" required id="message" />
 				</div>
+				<div className="form-group" id="note">
+					By submitting this form you agree to the{" "}
+					<a target="_blank" rel="noreferrer" href="https://web3forms.com/privacy">
+						privacy policy
+					</a>
+					.
+				</div>
 				<input type="checkbox" name="botcheck" id="" style={{ display: "none" }} />
 				<input type="submit" id="submit" value="Send" />
 			</form>
