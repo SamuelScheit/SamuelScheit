@@ -101,12 +101,12 @@ export function About() {
 						use Discord clients, bots, and libraries.
 					</div>
 				</TimelineItem>
-				<TimelineItem date="January 2022" title="Trant">
+				<TimelineItem date="January 2022" title="Respond">
 					<div>
 						For Fosscord, I wanted to create an independent client that could be used to connect to both Discord and Fosscord.
 						<br /> <br /> However, I realized that I could further extend the project and create a client that is not only
-						limited to Discord/Fosscord. <br /> <br /> That is why I founded <Link href="https://trant.app/">Trant</Link>, a
-						messenger that allows users to reach their friends no matter what platform they use e.g. WhatsApp, Telegram,
+						limited to Discord/Fosscord. <br /> <br /> That is why I founded <Link href="https://respond.chat/">Respond</Link>,
+						a messenger that allows users to reach their friends no matter what platform they use e.g. WhatsApp, Telegram,
 						Discord/Fosscord.
 					</div>
 				</TimelineItem>
