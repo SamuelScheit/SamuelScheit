@@ -62,7 +62,7 @@ export function About() {
 						I wanted to create a website that provided an overview of my Minecraft servers, so I had to learn HTML and CSS.
 						<br /> <br /> However, a static website just for viewing was not enough, I also wanted to manage those servers.
 						<br /> For this, I learned PHP and SQL to make the site interactive and store the servers in a database.
-						<br /> <br /> This project marked the beginning of my journey as a developer and the start of many
+						<br /> <br /> This project marked the beginning of my journey as a developer and the start of many{" "}
 						<a className="hover-animation" href="#projects">
 							subsequent projects
 						</a>
@@ -72,7 +72,7 @@ export function About() {
 				<TimelineItem date="September 2018" title="School">
 					<div>
 						Because I was part of a tablet class, my classmates and I wanted to exchange ideas and collaborate on our tablets.
-						<br /> <br /> However, since there was no existing
+						<br /> <br /> However, since there was no existing{" "}
 						<Link href={"https://github.com/SamuelScheit/Tabletklasse"}>communication platform</Link> provided by the school, I
 						developed one myself for my classmates to communicate and work together on projects. <br /> <br /> As I continued, I
 						pivoted my project to a{" "}
@@ -87,7 +87,7 @@ export function About() {
 							Discord bots
 						</Link>{" "}
 						and gained experience doing commissioned work. <br /> <br /> To make it easier to oversee my bots, I needed a
-						user-friendly interface and I developed a tool called
+						user-friendly interface and I developed a tool called{" "}
 						<Link href="https://github.com/SamuelScheit/discord-bot-client">Discord Bot Client</Link>. <br /> <br /> But as it
 						made use of Discord&apos;s official client, Discord shut it down alongside my account and all of my bots.
 					</div>
