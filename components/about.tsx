@@ -96,7 +96,7 @@ export function About() {
 					<div>
 						I wanted to create an alternative platform to Discord that is free, open-source, and can be self-hosted. <br />
 						<br /> However, I still wanted to be able to communicate with my friends and use the bots I had made prior. <br />
-						<br /> That is why I founded <Link href="https://fosscord.com/">Fosscord</Link>, a platform that is backwards
+						<br /> That is why I founded <Link href="https://spacebar.chat/">Fosscord</Link> (now Spacebar Chat), a platform that is backwards
 						compatible with Discord and that enables users to have control over their conversations while still being able to
 						use Discord clients, bots, and libraries.
 					</div>
