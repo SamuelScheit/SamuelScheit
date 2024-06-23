@@ -1,0 +1,29 @@
+import GitHub from "../public/github.svg";
+import Twitter from "../public/twitter.svg";
+import LinkedIn from "../public/linkedin.svg";
+import Telegram from "../public/telegram.svg";
+
+export function Links() {
+	return (
+		<div className="links">
+			<a title="GitHub" href="https://github.com/SamuelScheit/" target="_blank" rel="noreferrer">
+				<GitHub />
+			</a>
+			<a
+				title="LinkedIn"
+				className="linkedin"
+				href="https://www.linkedin.com/in/samuel-scheit-343436247/"
+				target="_blank"
+				rel="noreferrer"
+			>
+				<LinkedIn />
+			</a>
+			<a title="Twitter" className="twitter" href="https://twitter.com/SamuelScheit" target="_blank" rel="noreferrer">
+				<Twitter />
+			</a>
+			<a title="Telegram" className="telegram" href="https://t.me/SamuelScheit" target="_blank" rel="noreferrer">
+				<Telegram />
+			</a>
+		</div>
+	);
+}

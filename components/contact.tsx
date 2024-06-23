@@ -1,3 +1,5 @@
+import { Links } from "./Links";
+
 export function Contact() {
 	return (
 		<section id="contact">
@@ -26,6 +28,10 @@ export function Contact() {
 				<input type="checkbox" name="botcheck" id="" style={{ display: "none" }} />
 				<input type="submit" id="submit" value="Send" />
 			</form>
+
+			<div className="contact-links links-wrapper">
+				<Links />
+			</div>
 		</section>
 	);
 }

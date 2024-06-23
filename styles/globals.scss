@@ -24,6 +24,10 @@
 		margin: 0 auto;
 	}
 
+	.contact-links {
+		display: none !important;
+	}
+
 	.links-wrapper {
 		position: sticky;
 		top: 0;
@@ -42,6 +46,7 @@
 			gap: 3rem;
 			max-width: 20rem;
 			flex-grow: 1;
+			flex-wrap: wrap;
 
 			a {
 				flex-grow: 1;
@@ -88,6 +93,7 @@
 		.mail {
 			display: none;
 		}
+
 		.links-wrapper {
 			position: absolute;
 			top: 0;
@@ -101,6 +107,21 @@
 				justify-content: center;
 				align-items: flex-end;
 				padding-bottom: 2rem;
+			}
+		}
+
+		.contact-links {
+			display: flex !important;
+			position: relative;
+			height: auto;
+			flex-grow: 1;
+			padding-bottom: 0;
+			padding-left: 1rem;
+			padding-right: 1rem;
+			gap: 0;
+
+			.links {
+				flex-direction: row;
 			}
 		}
 	}
