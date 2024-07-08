@@ -26,6 +26,7 @@ export default function Home() {
 					<About />
 					<Contact />
 				</div>
+				<div className="links-wrapper" style={{ width: "100px" }}></div>
 			</div>
 		</>
 	);
