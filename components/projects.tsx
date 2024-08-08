@@ -2,8 +2,8 @@ import { ReactNode, useState, useRef } from "react";
 import Image from "next/image";
 import Spacebar from "../public/spacebar.png";
 import DiscordBotClient from "../public/discord_bot_client.png";
-import Trenite from "../public/trenite.png";
 import CarcassonneAI from "../public/carcassonne_ai.png";
+import Fingerprinting from "../public/fingerprinting.png";
 import PuppeteerStream from "../public/puppeteer_stream.png";
 
 export function Card(props: { href?: string; children: ReactNode }) {
@@ -43,6 +43,9 @@ export function Projects() {
 				<Card href="https://github.com/SamuelScheit/carcassonne-ai">
 					<Image style={{ aspectRatio: "2 / 1" }} src={CarcassonneAI} alt="Carcassonne AI" />
 				</Card>
+				<Card href="https://github.com/SamuelScheit/fingerprinting">
+					<Image style={{ aspectRatio: "2 / 1" }} src={Fingerprinting} alt="Browser Fingerprinting" />
+				</Card>
 			</div>
 		</section>
 	);
@@ -50,38 +53,23 @@ export function Projects() {
 
 export function glowCards() {
 	const cards = document.querySelectorAll(".projects .card") as any;
-	let bounds: any;
 
 	function rotateToMouse(this: any, e: any) {
 		const mouseX = e.clientX;
 		const mouseY = e.clientY;
-		const leftX = mouseX - bounds.x;
-		const topY = mouseY - bounds.y;
-		const center = {
-			x: leftX - bounds.width / 2,
-			y: topY - bounds.height / 2,
-		};
 
-		this.querySelector(".glow").style.backgroundImage = `
-		radial-gradient(
-		circle at
-		${center.x * 2 + bounds.width / 2}px
-		${center.y * 2 + bounds.height / 2}px,
-		#ffffff55,
-		#0000000f
-		)`;
+		this.bounds = this.getBoundingClientRect();
+
+		const leftX = mouseX - this.bounds.x;
+		const topY = mouseY - this.bounds.y;
+
+		this.querySelector(".glow").style.setProperty("--x", `${leftX}px`);
+		this.querySelector(".glow").style.setProperty("--y", `${topY}px`);
 	}
 
 	for (const $card of cards) {
 		const rotate = rotateToMouse.bind($card);
 
-		$card.addEventListener("mouseenter", () => {
-			bounds = $card.getBoundingClientRect();
-			document.addEventListener("mousemove", rotate);
-		});
-
-		$card.addEventListener("mouseleave", () => {
-			document.removeEventListener("mousemove", rotate);
-		});
+		document.addEventListener("mousemove", rotate);
 	}
 }

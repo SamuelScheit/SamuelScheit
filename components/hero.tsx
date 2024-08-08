@@ -24,9 +24,9 @@ export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDiv
 				<a className="hover-animation" href="#about">
 					About
 				</a>
-				{/* <a className="hover-animation" href="#contact">
+				<a className="hover-animation" href="#contact">
 					Contact
-				</a> */}
+				</a>
 			</div>
 			<div className="grid">
 				<div className="title">
