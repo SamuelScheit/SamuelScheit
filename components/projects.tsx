@@ -31,7 +31,7 @@ export function Projects() {
 			</h2>
 
 			<div className="list">
-				<Card href="https://fosscord.com">
+				<Card href="https://spacebar.chat">
 					<Image style={{ aspectRatio: "2 / 1" }} src={Spacebar} alt="Spacebar" />
 				</Card>
 				<Card href="https://github.com/SamuelScheit/discord-bot-client">
