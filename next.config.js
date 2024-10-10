@@ -1,5 +1,10 @@
 const withExportImages = require("next-export-optimize-images");
+const { default: nextra } = require("nextra");
 
+const withNextra = nextra({
+	theme: "nextra-theme-blog",
+	themeConfig: "./theme.config.jsx",
+});
 /** @type {import('next').NextConfig} */
 const nextConfig = {
 	reactStrictMode: true,
@@ -14,4 +19,4 @@ const nextConfig = {
 	},
 };
 
-module.exports = withExportImages(nextConfig);
+module.exports = withNextra(withExportImages(nextConfig));
