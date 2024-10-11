@@ -25,7 +25,7 @@ export function BlogPosts() {
 		.sort((a, b) => b.frontMatter.date.getTime() - a.frontMatter.date.getTime());
 
 	return (
-		<section className="blogposts" id="blogposts">
+		<section className="blogposts" id="blog">
 			<h2>Blog</h2>
 
 			<div className="posts">

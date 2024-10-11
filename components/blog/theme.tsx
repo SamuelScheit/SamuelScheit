@@ -124,14 +124,15 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 							style={{ fontSize: "18px", lineHeight: "normal" }}
 						>
 							<div className="_flex _justify _z-10 _pb-10 _justify-center">
-								<div
+								<Link
+									href={"/"}
 									className="_text-center _p-4 _text-4xl _font-bold _bg-clip-text _text-transparent"
 									style={{
 										backgroundImage: "linear-gradient(90deg, rgba(0,124,240,1) 23%, rgba(0,223,216,1) 71%)",
 									}}
 								>
 									Samuel Scheit
-								</div>
+								</Link>
 							</div>
 							<HeadingContext.Provider value={ref}>
 								{pageOpts.hasJsxInH1 ? <h1 ref={ref} /> : null}
