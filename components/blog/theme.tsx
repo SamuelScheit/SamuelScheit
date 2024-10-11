@@ -94,7 +94,6 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 	const config = { ...themeConfig };
 	const { title: pageTitle, frontMatter } = pageOpts;
 	const date = new Date(frontMatter.date);
-	console.log(frontMatter);
 	const tags: string[] = frontMatter.tags?.split(", ") ?? [];
 
 	const ref = useRef<HTMLHeadingElement>(null);

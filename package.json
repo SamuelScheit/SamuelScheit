@@ -19,9 +19,9 @@
 	},
 	"private": true,
 	"scripts": {
-		"dev": "next dev",
+		"dev": "next dev && cp .next/static/chunks/nextra-page-map-.mjs public/nextra-page-map.mjs",
 		"postinstall": "patch-package",
-		"build": "next build && next-export-optimize-images && next-sitemap --config next-sitemap.config.mjs",
+		"build": "next build && next-export-optimize-images && next-sitemap --config next-sitemap.config.mjs && cp .next/static/chunks/nextra-page-map-.mjs public/nextra-page-map.mjs",
 		"start": "next start",
 		"lint": "next lint",
 		"screenshot": "node screenshot.js"

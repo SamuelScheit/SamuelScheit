@@ -5,8 +5,7 @@ RUN curl -fsSL https://bun.sh/install | BUN_INSTALL=/usr bash
 COPY *.lock* ./
 COPY patches/ patches/
 RUN bun install
-# COPY ./.next/static/chunks/nextra-page-map-.mjs ./.next/static/chunks/nextra-page-map-.mjs
-COPY ./.next/ ./.next/
+COPY ./public/nextra-page-map.mjs ./.next/static/chunks/nextra-page-map-.mjs 
 COPY . .
 RUN yarn build
 
