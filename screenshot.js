@@ -1,4 +1,4 @@
-const puppeteer = require("puppeteer");
+const puppeteer = require("puppeteer-core");
 const next = require("next/dist/server/lib/start-server");
 
 async function main() {

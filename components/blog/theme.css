@@ -1,0 +1,46 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "./code-block.css";
+@import "./subheading-anchor.css";
+@import "./scrollbar.css";
+@import "./steps.css";
+@import "./cards.css";
+
+html {
+	@apply _scroll-pt-5;
+}
+
+body {
+	@apply _px-4 _bg-[rgb(var(--nextra-bg))];
+}
+
+article {
+	@apply _mx-auto _block _pt-20 _pb-32;
+}
+
+article img {
+	@apply _mx-auto;
+}
+
+h1 {
+	letter-spacing: -0.03em;
+}
+
+._prose code {
+	&:before,
+	&:after {
+		@apply _hidden;
+	}
+	.line {
+		@apply _font-normal;
+	}
+}
+
+._prose .nextra-callout p {
+	@apply _m-0;
+}
+
+.footnotes a[data-footnote-backref] {
+	font-family: initial;
+}

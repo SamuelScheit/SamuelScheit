@@ -4,17 +4,20 @@ import { Hero } from "../components/hero";
 import { Projects } from "../components/projects";
 import { Contact } from "../components/contact";
 import { Links } from "../components/Links";
+import { BlogPosts } from "../components/blog";
 
-export const config = {
-	unstable_runtimeJS: false,
-};
+export const config = {};
 
-export default function Home() {
+export default function Home(props: any) {
 	return (
 		<>
 			<Head>
 				<title>Samuel Scheit</title>
 				<meta name="description" content="Samuel Scheit - Developer, Student, Founder" />
+				<meta name="og:description" content="Samuel Scheit - Developer, Student, Founder" />
+				<link rel="preload" crossOrigin="anonymous" type="font/woff2" as="font" href="/fonts/inter-v12-latin-900.woff2" />
+				<link rel="preload" crossOrigin="anonymous" type="font/woff2" as="font" href="/fonts/inter-v12-latin-600.woff2" />
+				<link rel="preload" crossOrigin="anonymous" type="font/woff2" as="font" href="/fonts/inter-v12-latin-regular.woff2" />
 			</Head>
 			<div className="main">
 				<div className="links-wrapper">
@@ -22,6 +25,7 @@ export default function Home() {
 				</div>
 				<div className="content">
 					<Hero />
+					<BlogPosts />
 					<Projects />
 					<About />
 					<Contact />

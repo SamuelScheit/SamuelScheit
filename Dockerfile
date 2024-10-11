@@ -1,11 +1,14 @@
-FROM node:16 as builder
+FROM node:22 as builder
 WORKDIR /usr/src/app
 COPY package*.json ./
-COPY yarn.lock ./
-RUN yarn
+RUN curl -fsSL https://bun.sh/install | BUN_INSTALL=/usr bash
+COPY *.lock* ./
+COPY patches/ patches/
+RUN bun install
+# COPY ./.next/static/chunks/nextra-page-map-.mjs ./.next/static/chunks/nextra-page-map-.mjs
+COPY ./.next/ ./.next/
 COPY . .
 RUN yarn build
-RUN yarn export
 
 FROM nginx:alpine
 COPY ./nginx.conf /etc/nginx/nginx.conf

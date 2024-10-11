@@ -7,8 +7,18 @@
 		width: 70px;
 	}
 
-	.content {
+	> .content {
 		flex-grow: 1;
+
+		> section {
+			> h2 {
+				font-size: 4rem;
+				text-align: center;
+				margin-top: 4rem;
+				margin-bottom: 4rem;
+				font-weight: 700;
+			}
+		}
 	}
 
 	section {
@@ -16,7 +26,7 @@
 		flex-direction: column;
 		min-height: 100vh;
 		max-width: var(--container);
-		background: var(--background);
+		background-color: var(--background);
 		z-index: 1;
 		width: 100%;
 		position: relative;
@@ -44,7 +54,7 @@
 			justify-content: center;
 			align-items: flex-start;
 			gap: 3rem;
-			max-width: 20rem;
+			max-width: 22rem;
 			flex-grow: 1;
 			flex-wrap: wrap;
 
@@ -94,21 +104,27 @@
 			display: none;
 		}
 
-		.links-wrapper {
-			position: absolute;
-			top: 0;
-			width: 100%;
-			z-index: 2;
-			align-items: flex-end;
-			padding-left: 0;
+		&.blog .links-wrapper:not(.contact-links) {
+			display: none;
+		}
 
-			.links {
-				flex-direction: row;
-				justify-content: center;
+		&:not(.blog) {
+			.links-wrapper {
+				position: absolute;
+				top: 0;
+				width: 100%;
+				z-index: 2;
 				align-items: flex-end;
-				padding-bottom: 2rem;
-				max-width: 30rem;
-				gap: 1rem;
+				padding-left: 0;
+
+				.links {
+					flex-direction: row;
+					justify-content: center;
+					align-items: flex-end;
+					padding-bottom: 2rem;
+					max-width: 30rem;
+					gap: 1rem;
+				}
 			}
 		}
 
@@ -140,13 +156,13 @@
 	--background: #fff;
 	--background-rgb: 255, 255, 255;
 	--container: 1100px;
-	--background-secondary: #f5f5f5;
+	--background-secondary: #efefef;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
 		--text: #fff;
-		--text-secondary: #e2e2e2;
+		--text-secondary: #d0d0d0;
 		--background: #000;
 		--background-rgb: 13, 13, 13;
 		--background-secondary: #1a1a1a;
@@ -180,24 +196,28 @@ a {
 .hover-animation {
 	display: inline-block;
 	position: relative;
-}
 
-.hover-animation::after {
-	content: "";
-	position: absolute;
-	width: 100%;
-	transform: scaleX(0);
-	height: 3px;
-	bottom: -2px;
-	left: 0;
-	background-color: currentColor;
-	transform-origin: bottom right;
-	transition: transform 0.25s ease-out;
-}
+	transition: 0.2s ease;
+	text-decoration: none !important;
+	font-weight: 600 !important;
 
-.hover-animation:hover::after {
-	transform: scaleX(1);
-	transform-origin: bottom left;
+	&::after {
+		content: "";
+		position: absolute;
+		width: 100%;
+		transform: scaleX(0);
+		height: 3px;
+		bottom: -2px;
+		left: 0;
+		background-color: currentColor;
+		transform-origin: bottom right;
+		transition: transform 0.25s ease-out;
+	}
+
+	&:hover::after {
+		transform: scaleX(1);
+		transform-origin: bottom left;
+	}
 }
 
 .overlay-fade-top {

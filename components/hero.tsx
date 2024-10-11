@@ -1,5 +1,5 @@
 import Avatar from "../public/avatar.png";
-import Image from "next/image";
+import Image from "next-export-optimize-images/image";
 
 function RepeatFirstElement(
 	props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement> & {

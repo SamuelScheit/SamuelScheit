@@ -3,10 +3,12 @@ import Twitter from "../public/twitter.svg";
 import LinkedIn from "../public/linkedin.svg";
 import Telegram from "../public/telegram.svg";
 import Email from "../public/email.svg";
+import { PropsWithChildren } from "react";
 
-export function Links() {
+export function Links(props: PropsWithChildren<{}>) {
 	return (
 		<div className="links">
+			{props.children}
 			<a title="GitHub" href="https://github.com/SamuelScheit/" target="_blank" rel="noreferrer">
 				<GitHub />
 			</a>

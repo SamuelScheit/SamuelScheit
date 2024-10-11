@@ -1,0 +1,46 @@
+#blogposts {
+	min-height: 70vh;
+
+	.posts {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: start;
+		gap: 2rem;
+		padding: 2rem;
+
+		.post {
+			display: block;
+			width: 40%;
+			background-color: var(--background-secondary);
+			padding: 2rem;
+			border-radius: 1rem;
+
+			@media screen and (max-width: 1000px) {
+				width: 100%;
+			}
+
+			.title {
+				font-size: 1.6rem;
+				font-weight: bold;
+				color: var(--text);
+				margin-bottom: 0.5rem;
+			}
+
+			.date {
+				font-size: 0.9rem;
+				color: var(--text-secondary);
+				opacity: 0.5;
+				float: right;
+				line-height: 1.9rem;
+			}
+
+			.description {
+				font-size: 1.1rem;
+				color: var(--text-secondary);
+				margin-bottom: 0.5rem;
+			}
+		}
+	}
+}
