@@ -6,8 +6,6 @@ import { Contact } from "../components/contact";
 import { Links } from "../components/Links";
 import { BlogPosts } from "../components/blog";
 
-export const config = {};
-
 export default function Home(props: any) {
 	return (
 		<>

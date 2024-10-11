@@ -5,6 +5,7 @@ import colors from "tailwindcss/colors";
 export default {
 	prefix: "_",
 	content: [
+		"./pages/**/*.tsx",
 		"./components/**/*.tsx",
 		"./node_modules/nextra/dist/client/icons/*.js",
 		"./node_modules/nextra/dist/client/components/**/*.js",

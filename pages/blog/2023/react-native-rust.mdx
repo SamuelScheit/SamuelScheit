@@ -137,7 +137,7 @@ After following the setup instructions for [jsi-rs](https://github.com/laptou/js
 
 To see how you can use jsi-rs for iOS have a look at this [PR](https://github.com/laptou/jsi-rs/pull/3/files), which adds an iOS example.
 
-Additionally, be aware that [`async` support](https://github.com/laptou/jsi-rs/issues/4) is not fully supported yet and you have to resort to awaiting futures with `futures::executor::block_on(result)?` and, therefore, block the js thread.
+Additionally, be aware that [`async` support](https://github.com/laptou/jsi-rs/issues/4) is not fully supported yet and you have to resort to awaiting futures with `futures::executor::block_on(result)?`, which blocks the js thread.
 
 Also, there is no documentation available, so here are some examples of how to use jsi-rs:
 
