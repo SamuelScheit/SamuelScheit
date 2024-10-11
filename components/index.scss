@@ -131,8 +131,10 @@
 		}
 
 		.contact-links {
+			margin-top: 3rem;
+			margin-bottom: 4rem;
 			display: flex !important;
-			position: relative;
+			position: relative !important;
 			height: auto;
 			flex-grow: 1;
 			padding-bottom: 0;
@@ -188,6 +190,7 @@ body {
 	font-family: "Inter";
 	max-width: 100vw;
 	scroll-behavior: smooth;
+	overflow-x: hidden;
 }
 
 a {
