@@ -21,7 +21,7 @@ export function BlogPosts() {
 		.reduce((acc, x) => {
 			return acc.concat(x.children as any);
 		}, [] as Page[])
-		.map((x) => ({ ...x, frontMatter: { ...x.frontMatter, date: x.frontMatter.date ? new Date(x.frontMatter.date) : new Date() } }))
+		.map((x) => ({ ...x, frontMatter: { ...x.frontMatter, date: x.frontMatter?.date ? new Date(x.frontMatter.date) : new Date() } }))
 		.sort((a, b) => b.frontMatter.date.getTime() - a.frontMatter.date.getTime());
 
 	return (

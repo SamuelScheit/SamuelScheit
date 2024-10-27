@@ -6,7 +6,7 @@ description: Discover how react-native-skia-list can drastically improve your li
 tags: react-native, skia
 ---
 
-import { Link } from "../../../../components/Link";
+import { Link } from "../../../components/Link";
 import { Callout } from "nextra/components";
 
 See the following comparison video between my list implementation ([Skia List](https://samuelscheit.github.io/react-native-skia-list/)) and [Shopify's Flash List](https://shopify.github.io/flash-list/) (the fastest list renderer for React Native to date).
@@ -84,7 +84,7 @@ To combat the issue of blocking the main JS thread, react-native-skia provides t
 However the issue is that for each frame a new canvas has to be created and the image has to be sent between the threads resulting in high memory usage:
 
 import Image from "next-export-optimize-images/image";
-import Memory from "./memory.png";
+import Memory from "./react-native-skia-list/memory.png";
 
 <Image src={Memory} alt="React Native Skia Image Offscreen Memory Usage" style={{ width: "70%" }} />
 
@@ -94,7 +94,7 @@ The solution to the high memory usage was to use the [`Picture`](https://shopify
 
 Even though the high memory issue was solved, this approach had the problem that it had 100% CPU usage and wasn't performant enough.
 
-import CPU from "./cpu.png";
+import CPU from "./react-native-skia-list/cpu.png";
 
 <Image src={CPU} alt="React Native Skia Picture Offscreen CPU Usage" style={{ width: "70%" }} />
 
