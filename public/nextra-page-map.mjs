@@ -15,5 +15,19 @@ export const pageMap = [{
         "tags": "react-native, rust"
       }
     }]
+  }, {
+    name: "2024",
+    route: "/blog/2024",
+    children: [{
+      name: "react-native-skia-list",
+      route: "/blog/2024/react-native-skia-list",
+      frontMatter: {
+        "title": "Implementing the fastest list renderer for React Native using Skia",
+        "date": "2024/10/25",
+        "author": "Samuel Scheit",
+        "description": "Discover how react-native-skia-list can drastically improve your list performance in React Native.",
+        "tags": "react-native, skia"
+      }
+    }]
   }]
 }];

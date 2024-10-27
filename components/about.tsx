@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { Timeline, TimelineItem } from "./timeline";
-import Lego from "../public/lego.jpeg";
 import { Link } from "./Link";
 
 export function About() {

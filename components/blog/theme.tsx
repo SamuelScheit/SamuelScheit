@@ -121,7 +121,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 						<article
 							className="_container _prose max-md:_prose-sm _pt-6 dark:_prose-invert _relative _overflow-hidden"
 							dir="ltr"
-							style={{ fontSize: "18px", lineHeight: "normal" }}
+							style={{ fontSize: "18px" }}
 						>
 							<div className="_flex _justify _z-10 _pb-10 _justify-center">
 								<Link
@@ -138,7 +138,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 								{pageOpts.hasJsxInH1 ? <h1 ref={ref} /> : null}
 								{pageOpts.hasJsxInH1 ? null : <h1 style={{}}>{pageTitle}</h1>}
 								<div className="_flex _flex-row _w-full _text-xs _text-center _gap-6 _items-center">
-									{date && (
+									{date && date.toISOString && (
 										<time className=" _font-mono " dateTime={date.toISOString()}>
 											{date.toLocaleDateString("en-US", {
 												dateStyle: "long",
@@ -156,7 +156,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 									)}
 								</div>
 
-								<MDXProvider components={{ ...components, ...config.components }}>{children}</MDXProvider>
+								{children}
 							</HeadingContext.Provider>
 							<footer className="_mt-20 _mb-40 _text-center _flex _flex-col _gap-2">
 								<div className="_text-2xl _font-semibold _mb-4">Thank you for reading!</div>

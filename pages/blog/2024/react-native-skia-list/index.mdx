@@ -1,0 +1,130 @@
+---
+title: Implementing the fastest list renderer for React Native
+date: 2024/10/25
+author: Samuel Scheit
+description: Discover how react-native-skia-list can drastically improve your list performance in React Native.
+tags: react-native, skia
+---
+
+import { Link } from "../../../../components/Link";
+import { Callout } from "nextra/components";
+
+See the following comparison video between my list implementation ([Skia List](https://samuelscheit.github.io/react-native-skia-list/)) and [Shopify's Flash List](https://shopify.github.io/flash-list/) (the fastest list renderer for React Native to date).
+
+<div style={{ display: "flex", textAlign: "center" }}>
+	<div style={{ flex: 1 }}>
+		<h3 style={{ margin: 0 }}>
+			<Link href="https://samuelscheit.github.io/react-native-skia-list/">Skia List</Link>
+		</h3>
+	</div>
+	<div style={{ flex: 1 }}>
+		<h3 style={{ margin: 0 }}>
+			<Link href="https://shopify.github.io/flash-list/">Shopify's Flash List</Link>
+		</h3>
+	</div>
+</div>
+
+<video width="100%" controls muted playsInline loop autoPlay style={{ marginTop: "1rem", aspectRatio: "0.92511848" }}>
+	<source src="/blog/react-native-skia-list.mp4" type="video/mp4" />
+</video>
+
+The `<Message />` components for both lists are heavy and have the same functionality: context menu, swipe actions, reactions and attachments.
+
+You can see that SkiaList is rendering incredibly fast, with no blank spaces and consistently at 120 FPS. \
+While FlashList can't keep up when scrolling fast and has blank spaces.
+
+## Benchmark
+
+For a quantitative comparison, see the benchmark below, which tested rendering of 1000 list items and measuring the following metrics:
+
+|                  | Skia List | React Native's FlatList | Shopify's FlashList |
+| ---------------- | :-------: | :---------------------: | :-----------------: |
+| _FPS_            |   `119`   |                         |                     |
+| _CPU_            |           |                         |                     |
+| _Memory_         |           |                         |                     |
+| _Dropped Frames_ |   `52`    |          `164`          |        `196`        |
+| _Render Time_    |  `442ms`  |        `4417ms`         |      `4165ms`       |
+
+The Benchmark was made on an iPhone 13 Pro Max with react-native version 0.75 (new architecture enabled). \
+The Render Time is the total time taken to render all list items.
+
+## Background
+
+I started this project because I was frustrated with the performance of the current list renderers available for React Native. \
+Especially when rendering heavy UI components, like chat messages, which have a lot of interactive/heavy elements.
+
+I imagined there were the following bottlnecks that would need to be addressed:
+
+-   React reconciler overhead
+-   Layout measurement for each item
+-   Rendering heavy UI components
+
+and I couldn't think of a solution that solve these problems with React Native's component architecture. Except for building the list item component natively.
+
+However, I remembered that the Shopify team had built a [Skia renderer for React Native](https://shopify.github.io/react-native-skia/).
+Which allows you to render 2D graphics using the Skia rendering engine (btw. Skia is also used by Flutter and Chrome).
+
+I thought that using Skia to render the list items could be a viable alternative to building the list item component natively. \
+Especially because it is fast, can render complex UI components from JS and is very customizable.
+
+## React Native Skia rendering approaches
+
+### CanvasView with JS callback
+
+The first approach was to use the [`<SkiaView />`](https://github.com/shopify/react-native-skia/pull/2041) component from `react-native-skia`, which was available in version 0.1.229 and earlier.
+It allowed you to render to the canvas imperatively using a JS callback that would be called on the main JS thread.
+
+That approach worked fairly well, until you had some logic running on the main JS thread that would block the rendering of the list items. \
+Which would lead to dropped frames and stutters when scrolling.
+
+### Image Offscreen Canvas
+
+To combat the issue of blocking the main JS thread, react-native-skia provides the ability to render to an [image offscreen canvas](https://shopify.github.io/react-native-skia/docs/animations/textures/#under-the-hood) on a separate thread.
+
+However the issue is that for each frame a new canvas has to be created and the image has to be sent between the threads resulting in high memory usage:
+
+import Image from "next-export-optimize-images/image";
+import Memory from "./memory.png";
+
+<Image src={Memory} alt="React Native Skia Image Offscreen Memory Usage" style={{ width: "70%" }} />
+
+### Picture Offscreen Canvas
+
+The solution to the high memory usage was to use the [`Picture`](https://shopify.github.io/react-native-skia/docs/shapes/pictures/) API from Skia, which allows you to render to an offscreen canvas and share the `SkPicture` between threads.
+
+Even though the high memory issue was solved, this approach had the problem that it had 100% CPU usage and wasn't performant enough.
+
+import CPU from "./cpu.png";
+
+<Image src={CPU} alt="React Native Skia Picture Offscreen CPU Usage" style={{ width: "70%" }} />
+
+### Skia DOM
+
+At first I avoided using the Skia DOM because it used the react reconciler to update and render the Skia elements. \
+Which would have the same reconciler overhead as the current list renderers available for React Native.
+
+However, I realized that I could skip that part by directly calling `addChild`/`removeChild` on the elements and therefore avoid the reconciler overhead.
+
+This approach worked really well and was the fastest of all the approaches I tried.
+
+<Callout type="info">
+	There is a [new
+	approach](https://github.com/Shopify/react-native-skia/blob/5c58caeca9ba6251a5fdd4d1aaae627ccea3d037/apps/paper/src/Examples/WebGPU/WebGPU.tsx)
+	available using [`react-native-wgpu`](https://github.com/wcandillon/react-native-webgpu) which is even faster and I will use in the
+	future.
+</Callout>
+
+### Creating a simple ScrollView
+
+The next step was to create a simple ScrollView component that would render scrollable content.
+
+I used [`react-native-gesture-handler`](https://docs.swmansion.com/react-native-gesture-handler/docs/) with a Pan Gesture Detector to handle the touch events.
+
+I tried using [`withDecay()`](https://docs.swmansion.com/react-native-reanimated/docs/animations/withDecay) from [`react-native-reanimated`](https://docs.swmansion.com/react-native-reanimated/) for the momentum scroll animation, however, it didn't feel like the iOS scroll behavior.
+Gladly there is a good article by [Ilya Lobanov](https://medium.com/@esskeetit) on how [UIScrollView's animations work](https://medium.com/@esskeetit/how-uiscrollview-works-e418adc47060) which I used to recreate the momentum and overbounce scroll animations.
+
+<video controls muted playsInline loop autoPlay style={{ aspectRatio: 888 / 1812, height: "600px", margin: "0 auto" }}>
+	<source src="/blog/react-native-skia-list-scroll.mp4" type="video/mp4" />
+</video>
+
+**More coming soon...**

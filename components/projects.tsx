@@ -1,10 +1,11 @@
 import { ReactNode, useEffect } from "react";
 import Image from "next-export-optimize-images/image";
-import Spacebar from "../public/spacebar.png";
-import DiscordBotClient from "../public/discord_bot_client.png";
-import CarcassonneAI from "../public/carcassonne_ai.png";
-import Fingerprinting from "../public/fingerprinting.png";
-import PuppeteerStream from "../public/puppeteer_stream.png";
+import Spacebar from "../public/projects/spacebar.png";
+import DiscordBotClient from "../public/projects/discord_bot_client.png";
+import CarcassonneAI from "../public/projects/carcassonne_ai.png";
+import Fingerprinting from "../public/projects/fingerprinting.png";
+import PuppeteerStream from "../public/projects/puppeteer_stream.png";
+import { Link } from "./Link";
 
 export function Card(props: { href?: string; children: ReactNode }) {
 	return (
@@ -71,12 +72,16 @@ export function Projects() {
 				<Card href="https://github.com/SamuelScheit/puppeteer-stream">
 					<Image style={{ aspectRatio: "2 / 1" }} src={PuppeteerStream} alt="Puppeteer stream" />
 				</Card>
-				<Card href="https://github.com/SamuelScheit/carcassonne-ai">
-					<Image style={{ aspectRatio: "2 / 1" }} src={CarcassonneAI} alt="Carcassonne AI" />
-				</Card>
 				<Card href="https://github.com/SamuelScheit/fingerprinting">
 					<Image style={{ aspectRatio: "2 / 1" }} src={Fingerprinting} alt="Browser Fingerprinting" />
 				</Card>
+			</div>
+
+			<div style={{ textAlign: "center", fontSize: "1.4rem", fontWeight: 600, marginTop: "5rem", color: "var(--text-secondary)" }}>
+				You can find many more of my projects on{" "}
+				<Link href="https://github.com/SamuelScheit/" className="hover-animation" style={{ color: "var(--text)" }}>
+					GitHub
+				</Link>
 			</div>
 		</section>
 	);
