@@ -1,6 +1,7 @@
 ARG GITHUB_TOKEN
 FROM node:22 AS builder
 WORKDIR /usr/src/app
+RUN apt install libvips-dev
 COPY package*.json ./
 RUN curl -fsSL https://bun.sh/install | BUN_INSTALL=/usr bash
 COPY *.lock* ./
