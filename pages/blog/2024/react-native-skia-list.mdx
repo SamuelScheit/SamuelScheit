@@ -152,7 +152,7 @@ The idea was to render only the items that are visible on the screen and unmount
 For that a callback is registered that is run when the scroll position changes, which then calculates the visible items and updates the list. \
 That function looped over the list items, calculated their position and size, and rendered them if they were visible on screen.
 
-However there was a performance issue when scrolling to the end of a list with thousands of items, because the loop started from zero and needed to check the visibility of all following items. \
+However there was a performance issue when scrolling to the end of a list with thousands of items, because the render loop started from zero and needed to check the visibility of all following items. \
 One optimization I made was to save the last visible item index and only check the items before/after that index, which improved the performance drastically.
 
 ## How to use react-native-skia-list
