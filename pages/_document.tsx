@@ -9,6 +9,14 @@ export default function Document() {
 				<meta property="og:image" content="/media.png" />
 				<meta property="og:locale" content="en_GB" />
 				<link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml" />
+				<script
+					defer
+					data-domain="samuelscheit.com"
+					src="http://p.samuelscheit.com/js/script.outbound-links.pageview-props.tagged-events.js"
+				></script>
+				<script>
+					window.plausible = window.plausible || function() {(window.plausible.q = window.plausible.q || []).push(arguments)}
+				</script>
 			</Head>
 			<body>
 				<Main />
