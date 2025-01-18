@@ -13,10 +13,13 @@ export default function Document() {
 					defer
 					data-domain="samuelscheit.com"
 					src="http://p.samuelscheit.com/js/script.outbound-links.pageview-props.tagged-events.js"
-				></script>
-				<script>
-					window.plausible = window.plausible || function() {(window.plausible.q = window.plausible.q || []).push(arguments)}
-				</script>
+				/>
+				<script
+					dangerouslySetInnerHTML={{
+						__html: `window.plausible = window.plausible || function() {(window.plausible.q = window.plausible.q || []).push(arguments)}
+					`,
+					}}
+				/>
 			</Head>
 			<body>
 				<Main />
