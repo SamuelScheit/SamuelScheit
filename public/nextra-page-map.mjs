@@ -25,9 +25,27 @@ export const pageMap = [{
         "title": "Implementing the fastest list renderer for React Native",
         "date": "2024/10/25",
         "author": "Samuel Scheit",
-        "description": "Discover how react-native-skia-list can drastically improve your list performance in React Native.",
+        "description": "Discover how react-native-skia-list can drastically improve your React Native list performance.",
         "tags": "react-native, skia"
       }
+    }]
+  }, {
+    name: "2025",
+    route: "/blog/2025",
+    children: [{
+      name: "bundestagswahl",
+      route: "/blog/2025/bundestagswahl",
+      children: [{
+        name: "index",
+        route: "/blog/2025/bundestagswahl",
+        frontMatter: {
+          "title": "Fehlende Stimmen bei der Bundestagswahl 2025",
+          "date": "2025/02/26",
+          "author": "Samuel Scheit",
+          "description": "Eine Datenanalyse der Stimme von allen 299 Wahlkreisen in Deutschland zur Bundestagswahl 2025",
+          "tags": "bundestagswahl 2025, datascience"
+        }
+      }]
     }]
   }]
 }];

@@ -95,6 +95,8 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 	const { title: pageTitle, frontMatter } = pageOpts;
 	const date = new Date(frontMatter.date);
 	const tags: string[] = frontMatter.tags?.split(", ") ?? [];
+	const { language } = frontMatter;
+	const isEn = language === "en";
 
 	const ref = useRef<HTMLHeadingElement>(null);
 	const title = `${pageTitle}${config.titleSuffix || ""}`;
@@ -119,7 +121,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 				<BlogProvider value={{ config, opts: pageOpts }}>
 					<MDXProvider components={{ ...components, ...config.components }}>
 						<article
-							className="_container _prose max-md:_prose-sm _pt-6 dark:_prose-invert _relative _overflow-hidden"
+							className="_container _prose max-md:_prose-sm _pt-6 dark:_prose-invert _relative"
 							dir="ltr"
 							style={{ fontSize: "18px" }}
 						>
@@ -129,6 +131,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 									className="_text-center _p-4 _text-4xl _font-bold _bg-clip-text _text-transparent"
 									style={{
 										backgroundImage: "linear-gradient(90deg, rgba(0,124,240,1) 23%, rgba(0,223,216,1) 71%)",
+										textDecoration: "none",
 									}}
 								>
 									Samuel Scheit
@@ -136,7 +139,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 							</div>
 							<HeadingContext.Provider value={ref}>
 								{pageOpts.hasJsxInH1 ? <h1 ref={ref} /> : null}
-								{pageOpts.hasJsxInH1 ? null : <h1 style={{}}>{pageTitle}</h1>}
+								{pageOpts.hasJsxInH1 ? null : <h1 style={{ textAlign: "center" }}>{pageTitle}</h1>}
 								<div className="_flex _flex-row _w-full _text-xs _text-center _gap-6 _items-center">
 									{date && date.toISOString && (
 										<time className=" _font-mono " dateTime={date.toISOString()}>
@@ -159,9 +162,13 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 								{children}
 							</HeadingContext.Provider>
 							<footer className="_mt-20 _mb-40 _text-center _flex _flex-col _gap-2">
-								<div className="_text-2xl _font-semibold _mb-4">Thank you for reading!</div>
+								<div className="_text-2xl _font-semibold _mb-4">
+									{isEn ? `Thank you for reading!` : `Danke fürs lesen!`}
+								</div>
 								<div>
-									If you want to support me you can sponsor me on{" "}
+									{isEn
+										? "If you want to support me you can sponsor me on "
+										: "Wenn du mich unterstützen möchtest kannst du mir spenden auf "}
 									<ExternalLink
 										style={{ textDecoration: "none", fontWeight: 600 }}
 										href="https://github.com/sponsors/SamuelScheit"
@@ -170,7 +177,11 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 									</ExternalLink>{" "}
 									💚
 								</div>
-								<div>If you have any questions or feedback, feel free to contact me. 👨‍💻</div>
+								<div>
+									{isEn
+										? `If you have any questions or feedback, feel free to contact me. 👨‍💻`
+										: `Wenn du Fragen oder Feedback hast, kannst du mir gerne schreiben. 👨‍💻`}
+								</div>
 								<div className="contact-links links-wrapper _mt-20">
 									<Links />
 								</div>
