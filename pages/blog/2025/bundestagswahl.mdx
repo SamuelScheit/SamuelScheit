@@ -1,0 +1,219 @@
+---
+title: Fehlende Stimmen bei der Bundestagswahl 2025
+date: 2025/02/26
+author: Samuel Scheit
+description: Eine Datenanalyse der Stimmen von allen 299 Wahlkreisen in Deutschland zur Bundestagswahl 2025
+tags: bundestagswahl 2025, datascience
+language: de
+---
+
+import { Callout } from "nextra/components";
+
+<Callout type="info">
+	<div className="_text-sm">
+		TLDR 5k Wahlstimmen Diskrepanzen vermutlich durch menschliche Fehler, die aber keinen Einfluss auf das Wahlergebnis, Sitzverteilung
+		oder 5% Hürde haben.
+	</div>
+</Callout>
+
+Ich bin zunächst auf das Thema aufmerksam geworden durch einen Post der Diskrepanzen gezeigt hat zwischen den Bundestagswahl Stimmen die in Aschaffenburg ausgezählt wurden und den Stimmen die von der Bundeswahlleiterin vorläufig veröffentlicht wurden.
+
+import Image from "next-export-optimize-images/image";
+import AschaffenburgKreiswahlleiter from "./bundestagswahl/aschaffenburg_kreiswahlleiter.png";
+import AschaffenburgBundeswahlleiterin from "./bundestagswahl/aschaffenburg_bundeswahlleiterin.png";
+import { Link } from "../../../components/Link";
+
+<div style={{ flexDirection: "row", display: "grid", columnGap: "1rem", gridTemplateColumns:"1fr 1fr", rowGap:"0.5rem", justifyItems: "center" }} className="_text-md">
+    <div>
+    	<Link href="https://wahl.aschaffenburg.de/bundestagswahl2025/ergebnisse.html">Stadt Aschaffenburg</Link>
+    </div>
+
+    <div>
+    	<Link href="https://bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/bund-99/land-9/wahlkreis-246.html">Bundeswahlleiterin Aschaffenburg</Link>
+    </div>
+
+    <div>
+    	<Image src={AschaffenburgKreiswahlleiter} style={{  height: "fit-content", margin:"0" }} />
+    </div>
+
+    <div>
+    	<Image src={AschaffenburgBundeswahlleiterin} style={{  height: "fit-content", margin:"0" }} />
+    </div>
+
+</div>
+
+Dabei sieht man, dass auf der Seite der Bundeswahlleiterin die CDU, SPD, FDP, AfD, Tierschutzpartei, BP 1 Stimme weniger, die Linke, die Partei 2 Stimmen weniger, Bündnis Deutschland 22 Stimmen weniger und das BSW 23 Stimmen weniger haben als auf Seite der Stadt Aschaffenburg.
+
+Das hat mich irritiert und ich habe mir ein paar Wahlkreise angeschaut und festgestellt, dass es weitere Wahlkreisen gibt, die kleine Diskrepanzen haben.
+
+import Wahlkreise from "./bundestagswahl/wahlkreise.svg";
+import NextImage from "next/image";
+
+<Wahlkreise style={{ maxHeight: "40vh", width: "30%", float: "left", marginRight: "1rem" }} />
+
+Damit ich jetzt nicht alle 299 Wahlkreise händisch überprüfen muss, habe ich mir ein Skript geschrieben, dass die Daten von der Seite der Bundeswahlleiterin herunterlädt und verarbeiten kann.
+
+Jetzt fehlen nur noch die Daten der Wahlkreise und das Vergleichen kann beginnen. Leichter gesagt als getan, denn die Daten der Gemeinden und Wahlkreisen stehen nicht an einer zentralen Stelle zur Verfügung und haben kein einheitliches Format.
+
+Also ging ich die Liste der Wahlkreise durch, suchte nach dem Namen und fand sehr viele Nachrichtenartikel. Leider benutzten die meistens die Bundeswahlleiterin oder eine Hochrechnung als Quelle, und nicht die Original Daten des Wahlkreises.
+
+Also musste ich zunächst Herausfinden welche Gemeinde als Wahlleiter für den Kreis zuständig ist (stand meistens auf Wikipedia) und suchte dann auf der Website der Gemeinde nach den original Auszählungsdaten.
+
+## Wahlsoftware Anbieter
+
+Dabei fielen mir unterschiedliche Datenaufmachungen auf, die von mehreren Wahlkreisen verwendet wurden:
+
+import Votegroup from "./bundestagswahl/votegroup.png";
+import Votemanager from "./bundestagswahl/votemanager.png";
+import MVNet from "./bundestagswahl/mvnet.png";
+import Thüringen from "./bundestagswahl/thüringen.png";
+import Sachsen from "./bundestagswahl/sachsen.png";
+import Krzn from "./bundestagswahl/krzn.png";
+
+<div class="_grid _grid-cols-1 md:_grid-cols-2 _gap-6 _text-center" style={{gridTemplateColumns:"1fr 1fr"}}>
+	<div class="_flex _flex-col _justify-between">
+		<Image src={Votegroup} class="_w-1/2" alt="Vote/elect iT GmbH" style={{margin:"0"}} />
+		<div>
+			<Link href="https://www.votegroup.de/">vote/elect iT GmbH</Link>
+			wird verwendet von etwa 30% der Wahlkreise in Deutschland (Bayern, Saarland, Berlin, Brandenburg, Hamburg, Schleswig Holstein, Bremen und vereinzelte Wahlkreise in anderen Bundesländern).
+		</div>
+	</div>
+
+    <div class="_flex _flex-col _justify-between">
+    	<Image src={Votemanager} class="_w-1/2" alt="VoteGroup" style={{margin:"0"}} />
+    	<div>
+    		<Link href="https://wahlen.votemanager.de/">VoteGroup</Link>
+    		wird verwendet von etwa 30% der Wahlkreise (Niedersachsen, Nordrhein-Westfalen, Hessen, Baden-Württemberg, Sachsen Anhalt) und war sehr einfach
+    		zu verarbeiten, weil sie eine JSON API zur Verfügung stellen.
+    	</div>
+    </div>
+
+    <div  class="_flex _flex-col _items-center">
+    	<Image src={MVNet} class="_w-1/2" alt="MVNet"  style={{margin:"0"}}/>
+    	<div>
+    		<Link href="https://wahlen.mvnet.de/wahl/bund">MVNet</Link>
+    		wird ausschließlich verwendet von Mecklenburg-Vorpommern und war schwierig zu analysieren, da keine ordentliche HTML Struktur
+    		vorhanden war und alle Elemente absolut positioniert waren.
+    	</div>
+    </div>
+
+    <div  class="_flex _flex-col _items-center">
+    	<Image src={Krzn} class="_w-1/2" alt="Krzn"  style={{margin:"0"}}/>
+    	<div>
+    		<Link href="https://wahl.krzn.de/bw2025/">Krzn</Link>
+    		wird verwendet von einzelnen Wahlkreisen in Nordrhein-Westfalen und bot eine CSV Datei zum Download an.
+    	</div>
+    </div>
+
+
+
+    <div  class="_flex _flex-col _items-center">
+    	<Image src={Thüringen} class="_w-1/2" alt="Thüringen Wahlen" style={{margin:"0"}} />
+    	<p>
+    		<Link href="https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=BW&wJahr=2025&zeigeErg=SORTWK">Wahlen Thüringen</Link>
+    	</p>
+    </div>
+
+    <div  class="_flex _flex-col _items-center">
+    	<Image src={Sachsen} class="_w-1/2" alt="Sachsen Wahlen" style={{margin:"0"}} />
+    	<p>
+    		<Link href="https://www.wahlen.sachsen.de/bundestagswahlen-2025-wahlergebnisse.php">Wahlen Sachsen</Link>
+    	</p>
+    </div>
+
+</div>
+
+Nachdem ich mühselig alle 299 [Quellen](https://github.com/SamuelScheit/bundestagswahl2025/blob/a003cd02b6c40370187beee9e275497522ec86cc/wahlbezirke/wahlbezirke.ts) der Wahlkreise zusammengesucht habe, habe ich für jeden Wahlanbieter ein [Skript geschrieben](https://github.com/SamuelScheit/bundestagswahl2025/blob/a003cd02b6c40370187beee9e275497522ec86cc/wahlbezirke/scrape.ts), dass die Daten herunterlädt und in ein einheitliches Format bringt. [(Hier zu finden)](https://github.com/SamuelScheit/bundestagswahl2025/blob/a003cd02b6c40370187beee9e275497522ec86cc/wahlbezirke/data/out.json)
+
+## Datenanalyse
+
+Jetzt zum spannenden Teil, der Datenanalyse. Nachdem ich nun beide Datenquellen (Bundeswahlleiterin und Wahlkreise) in einem einheitlichen Format hatte, konnte ich die Wahlkreisergebnisse der Bundeswahlleiterin mit den original Daten der Wahlkreise vergleichen und die Differenz der Stimmen berechnen.
+
+import list from "./bundestagswahl/list.json";
+import { Table, Th, Tr, Td, Bleed } from "nextra/components";
+
+<Table style={{ maxHeight: "50vh", overflow: "auto" }}>
+	<thead className="_text-md">
+		<Tr>
+			<Th>Wahlkreis</Th>
+			<Th>Partei</Th>
+			<Th>Bund</Th>
+			<Th>Wahlkreis</Th>
+			<Th>Differenz</Th>
+		</Tr>
+	</thead>
+	<tbody className="_text-sm">
+		{list.map((row, i) => (
+			<Tr key={i}>
+				<Td>{row.wahlbezirk}</Td>
+				<Td>{row.partei}</Td>
+				<Td>{row.bundesStimmen}</Td>
+				<Td>{row.wahlbezirkStimmen}</Td>
+				<Td>{row.diff}</Td>
+			</Tr>
+		))}
+	</tbody>
+</Table>
+
+Um die gesamt Menge an Stimmen besser visualisieren zu können, habe ich die Differenzen pro Partei zusammengefasst.
+
+import total from "./bundestagswahl/total.json";
+
+<Table style={{float:"left",marginRight:"1rem"}}>
+	<thead className="_text-md">
+		<Tr>
+			<Th>Partei</Th>
+			<Th>Stimmen</Th>
+		</Tr>
+	</thead>
+	<tbody className="_text-sm">
+		{Object.entries(total)
+			.sort((a, b) => b[1] - a[1])
+			.map(([partei, diff]) => (
+				<Tr key={partei}>
+					<Td style={{ padding: "0.2rem", paddingLeft: "0.5rem" }}>{partei}</Td>
+					<Td style={{ padding: 0 }} className="_text-center">
+						{diff}
+					</Td>
+				</Tr>
+			))}
+
+    		<Tr>
+    			<Th>Gesamt</Th>
+    			<Th>{Object.values(total).reduce((a, b) => a + b, 0)}</Th>
+    		</Tr>
+    </tbody>
+
+</Table>
+
+Dabei sieht man, dass das BSW am meisten Stimmen Diskrepanzen hat, gefolgt von der CDU und der AfD. Besonders ist dabei, dass das BSW und Bündnis Deutschland im Vergleich zu ihrer Gesamtstimmenanzahl die höchste relative Diskrepanz haben.
+
+Jedoch ist die absolute Diskrepanz zu den 49.927.315 abgegebenen Stimmen mit 0,01% sehr gering und hat keinen Einfluss auf das Wahlergebnis und keinen Einfluss auf die Sitzverteilung und auch keinen Einfluss auf die 5% Hürde für den Einzug in den Bundestag.
+
+<div style={{ clear: "both" }}></div>
+
+## Ursachen für Diskrepanzen
+
+ChatGPT zeigt folgende mögliche Ursachen für die Diskrepanzen:
+
+1. **Übertragungs- und Meldefehler**
+
+    - **Manuelle Eingabefehler**: In vielen Gemeinden werden die Ergebnisse zunächst per Hand in ein System eingegeben oder telefonisch übermittelt. Hier können Tippfehler auftreten.
+    - **Fehlende oder doppelte Meldungen**: Falls ein Wahlkreis seine Ergebnisse verspätet oder fehlerhaft meldet, kann es zu Abweichungen kommen.
+
+2. **Unterschiede zwischen vorläufigen und endgültigen Ergebnissen**
+
+    - **Korrekturen nach erneuter Prüfung**: Nach der ersten Erfassung werden die Wahlergebnisse von den Wahlleitern geprüft, was zu Anpassungen führen kann.
+    - **Fehlende Berücksichtigung von Nachmeldungen**: Manche verspäteten Meldungen werden erst im endgültigen Wahlergebnis berücksichtigt.
+
+Solche menschlichen Fehler sind erwartbar bei einer Wahl mit 299 Wahlkreisen, ~675.000 Wahlhelfern und 49.927.315 abgegebenen Stimmen. Erfreulicherweise sind die Diskrepanzen sehr gering und haben keinen Einfluss auf das Wahlergebnis.
+
+Ich werde auch noch die Bundeswahlleiterin kontaktieren, um die Fehler zu melden und zu korrigieren.
+
+## Ausblick
+
+In Zukunft könnte der Vergleich auch noch auf Direktmandate ausgeweitet werden.
+
+Ich habe hier drauf verzichtet, weil kleine Fehler beim Direktmandat keine Auswirkungen haben, da nur der Kandidat in den Bundestag einzieht, der die meisten Stimmen in seinem Wahlkreis hat. Außerdem würden grobe Fehler dem Direktkandidaten sofort auffallen.
+
+Wenn man die Auswertung noch weiter in der Tiefe betreiben möchte, dann könnte man nicht nur die Bundeswahlleiter Ergebnisse überprüfen, sondern auch die Kreiswahlergebnisse. Indem man die Stimmen aus den einzelnen Gemeinden aggregiert und vergleicht.

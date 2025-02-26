@@ -16,6 +16,6 @@
 		"incremental": true,
 		"plugins": [{ "name": "typescript-plugin-css-modules" }]
 	},
-	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/blog/2025/bundestagswahl.mdx"],
 	"exclude": ["node_modules", "github/"]
 }
