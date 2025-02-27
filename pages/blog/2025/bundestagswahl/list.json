@@ -1,4279 +1,4279 @@
 [
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 28062,
-    "bundesStimmen": 27970,
-    "diff": 92
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 21526,
-    "bundesStimmen": 21710,
-    "diff": 184
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 7276,
-    "bundesStimmen": 7478,
-    "diff": 202
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 2945,
-    "bundesStimmen": 2954,
-    "diff": 9
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 27446,
-    "bundesStimmen": 27232,
-    "diff": 214
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 12260,
-    "bundesStimmen": 12257,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1912,
-    "bundesStimmen": 1905,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 649,
-    "bundesStimmen": 659,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 201,
-    "bundesStimmen": 199,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 504,
-    "bundesStimmen": 502,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 545,
-    "bundesStimmen": 543,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 396,
-    "bundesStimmen": 401,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 122,
-    "bundesStimmen": 121,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6428,
-    "bundesStimmen": 6369,
-    "diff": 59
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 98,
-    "bundesStimmen": 96,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Duisburg II",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 61,
-    "bundesStimmen": 122,
-    "diff": 61
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 32758,
-    "bundesStimmen": 32724,
-    "diff": 34
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 43594,
-    "bundesStimmen": 43380,
-    "diff": 214
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 13511,
-    "bundesStimmen": 13448,
-    "diff": 63
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 5906,
-    "bundesStimmen": 5897,
-    "diff": 9
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 32107,
-    "bundesStimmen": 31913,
-    "diff": 194
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 11857,
-    "bundesStimmen": 11933,
-    "diff": 76
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2367,
-    "bundesStimmen": 2363,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 808,
-    "bundesStimmen": 804,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 305,
-    "bundesStimmen": 302,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 778,
-    "bundesStimmen": 779,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 91,
-    "bundesStimmen": 89,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 186,
-    "bundesStimmen": 225,
-    "diff": 39
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7367,
-    "bundesStimmen": 7316,
-    "diff": 51
-  },
-  {
-    "wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 52,
-    "bundesStimmen": 55,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 35554,
-    "bundesStimmen": 35445,
-    "diff": 109
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 39012,
-    "bundesStimmen": 38855,
-    "diff": 157
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 13596,
-    "bundesStimmen": 13527,
-    "diff": 69
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 5683,
-    "bundesStimmen": 5667,
-    "diff": 16
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 30611,
-    "bundesStimmen": 30515,
-    "diff": 96
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 9618,
-    "bundesStimmen": 9575,
-    "diff": 43
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1828,
-    "bundesStimmen": 1820,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 401,
-    "bundesStimmen": 400,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 561,
-    "bundesStimmen": 559,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1055,
-    "bundesStimmen": 1052,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 615,
-    "bundesStimmen": 614,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 87,
-    "bundesStimmen": 85,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Hameln-Pyrmont – Holzminden",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5423,
-    "bundesStimmen": 5408,
-    "diff": 15
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 30704,
-    "bundesStimmen": 30725,
-    "diff": 21
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 35829,
-    "bundesStimmen": 35769,
-    "diff": 60
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 19165,
-    "bundesStimmen": 19111,
-    "diff": 54
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 6286,
-    "bundesStimmen": 6282,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 27299,
-    "bundesStimmen": 27221,
-    "diff": 78
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 18608,
-    "bundesStimmen": 18583,
-    "diff": 25
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1923,
-    "bundesStimmen": 1925,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 670,
-    "bundesStimmen": 672,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1169,
-    "bundesStimmen": 1171,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 249,
-    "bundesStimmen": 259,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Wuppertal I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 8248,
-    "bundesStimmen": 8242,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 23882,
-    "bundesStimmen": 23930,
-    "diff": 48
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 51321,
-    "bundesStimmen": 51273,
-    "diff": 48
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 11756,
-    "bundesStimmen": 11736,
-    "diff": 20
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 29044,
-    "bundesStimmen": 29064,
-    "diff": 20
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 702,
-    "bundesStimmen": 695,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1066,
-    "bundesStimmen": 1073,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 17,
-    "bundesStimmen": 16,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 209,
-    "bundesStimmen": 243,
-    "diff": 34
-  },
-  {
-    "wahlbezirk": "Höxter – Gütersloh III – Lippe II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5560,
-    "bundesStimmen": 5526,
-    "diff": 34
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 32389,
-    "bundesStimmen": 32399,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 37140,
-    "bundesStimmen": 37097,
-    "diff": 43
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 25647,
-    "bundesStimmen": 25602,
-    "diff": 45
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 5632,
-    "bundesStimmen": 5627,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 25059,
-    "bundesStimmen": 25017,
-    "diff": 42
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 15998,
-    "bundesStimmen": 15934,
-    "diff": 64
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 566,
-    "bundesStimmen": 565,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1878,
-    "bundesStimmen": 1880,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 42314,
-    "bundesStimmen": 42315,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 24129,
-    "bundesStimmen": 24194,
-    "diff": 65
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 40878,
-    "bundesStimmen": 40810,
-    "diff": 68
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 11759,
-    "bundesStimmen": 11751,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 14421,
-    "bundesStimmen": 14422,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 17530,
-    "bundesStimmen": 17528,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 687,
-    "bundesStimmen": 685,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "BÜNDNIS C",
-    "wahlbezirkStimmen": 133,
-    "bundesStimmen": 148,
-    "diff": 15
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 93,
-    "bundesStimmen": 94,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 111,
-    "bundesStimmen": 108,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Stuttgart I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5306,
-    "bundesStimmen": 5291,
-    "diff": 15
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 72641,
-    "bundesStimmen": 72605,
-    "diff": 36
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 21606,
-    "bundesStimmen": 21598,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 31526,
-    "bundesStimmen": 31552,
-    "diff": 26
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 10969,
-    "bundesStimmen": 10962,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 25308,
-    "bundesStimmen": 25281,
-    "diff": 27
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 5138,
-    "bundesStimmen": 5146,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 9716,
-    "bundesStimmen": 9709,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 771,
-    "bundesStimmen": 774,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1456,
-    "bundesStimmen": 1453,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 875,
-    "bundesStimmen": 882,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 762,
-    "bundesStimmen": 757,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "BP",
-    "wahlbezirkStimmen": 431,
-    "bundesStimmen": 429,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1262,
-    "bundesStimmen": 1264,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 115,
-    "bundesStimmen": 131,
-    "diff": 16
-  },
-  {
-    "wahlbezirk": "Starnberg – Landsberg am Lech",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5031,
-    "bundesStimmen": 5015,
-    "diff": 16
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 32590,
-    "bundesStimmen": 32533,
-    "diff": 57
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 64035,
-    "bundesStimmen": 64092,
-    "diff": 57
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1793,
-    "bundesStimmen": 1796,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 823,
-    "bundesStimmen": 825,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 360,
-    "bundesStimmen": 358,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1357,
-    "bundesStimmen": 1354,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6305,
-    "bundesStimmen": 6288,
-    "diff": 17
-  },
-  {
-    "wahlbezirk": "Warendorf",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 44,
-    "bundesStimmen": 61,
-    "diff": 17
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 75101,
-    "bundesStimmen": 75099,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 41432,
-    "bundesStimmen": 41399,
-    "diff": 33
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 8048,
-    "bundesStimmen": 8052,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 8259,
-    "bundesStimmen": 8239,
-    "diff": 20
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1227,
-    "bundesStimmen": 1261,
-    "diff": 34
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 618,
-    "bundesStimmen": 621,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "BP",
-    "wahlbezirkStimmen": 224,
-    "bundesStimmen": 226,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 719,
-    "bundesStimmen": 717,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 104,
-    "bundesStimmen": 112,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 33,
-    "bundesStimmen": 34,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 275,
-    "bundesStimmen": 284,
-    "diff": 9
-  },
-  {
-    "wahlbezirk": "Bad Kissingen",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5266,
-    "bundesStimmen": 5247,
-    "diff": 19
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 33923,
-    "bundesStimmen": 33924,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 27584,
-    "bundesStimmen": 27582,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 855,
-    "bundesStimmen": 859,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 218,
-    "bundesStimmen": 226,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 999,
-    "bundesStimmen": 1002,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1694,
-    "bundesStimmen": 1680,
-    "diff": 14
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 58,
-    "bundesStimmen": 74,
-    "diff": 16
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 305,
-    "bundesStimmen": 303,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 303,
-    "bundesStimmen": 323,
-    "diff": 20
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6292,
-    "bundesStimmen": 6243,
-    "diff": 49
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 54,
-    "bundesStimmen": 66,
-    "diff": 12
-  },
-  {
-    "wahlbezirk": "Rheinisch-Bergischer Kreis",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 111,
-    "bundesStimmen": 114,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Rastatt",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 54348,
-    "bundesStimmen": 54349,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rastatt",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 23553,
-    "bundesStimmen": 23552,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rastatt",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 36772,
-    "bundesStimmen": 36771,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rastatt",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 2610,
-    "bundesStimmen": 2611,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rastatt",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 35,
-    "bundesStimmen": 38,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Rastatt",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 139,
-    "bundesStimmen": 194,
-    "diff": 55
-  },
-  {
-    "wahlbezirk": "Rastatt",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6680,
-    "bundesStimmen": 6619,
-    "diff": 61
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 40603,
-    "bundesStimmen": 40600,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 23850,
-    "bundesStimmen": 23825,
-    "diff": 25
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 10284,
-    "bundesStimmen": 10293,
-    "diff": 9
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 34398,
-    "bundesStimmen": 34400,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 14817,
-    "bundesStimmen": 14819,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1091,
-    "bundesStimmen": 1089,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1393,
-    "bundesStimmen": 1391,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 29,
-    "bundesStimmen": 30,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 373,
-    "bundesStimmen": 371,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 400,
-    "bundesStimmen": 425,
-    "diff": 25
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 8760,
-    "bundesStimmen": 8732,
-    "diff": 28
-  },
-  {
-    "wahlbezirk": "Rhein-Erft-Kreis I",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 129,
-    "bundesStimmen": 130,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 39287,
-    "bundesStimmen": 39286,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 53361,
-    "bundesStimmen": 53363,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 16091,
-    "bundesStimmen": 16092,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 7205,
-    "bundesStimmen": 7204,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 29406,
-    "bundesStimmen": 29405,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2534,
-    "bundesStimmen": 2533,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 934,
-    "bundesStimmen": 935,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 739,
-    "bundesStimmen": 738,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 346,
-    "bundesStimmen": 388,
-    "diff": 42
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6304,
-    "bundesStimmen": 6263,
-    "diff": 41
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 36,
-    "bundesStimmen": 38,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Wesel I",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 90,
-    "bundesStimmen": 88,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 75612,
-    "bundesStimmen": 75587,
-    "diff": 25
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 23592,
-    "bundesStimmen": 23589,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 28304,
-    "bundesStimmen": 28292,
-    "diff": 12
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 7410,
-    "bundesStimmen": 7406,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 39749,
-    "bundesStimmen": 39743,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 10437,
-    "bundesStimmen": 10440,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 14788,
-    "bundesStimmen": 14778,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 529,
-    "bundesStimmen": 526,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1408,
-    "bundesStimmen": 1405,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 728,
-    "bundesStimmen": 726,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "BP",
-    "wahlbezirkStimmen": 235,
-    "bundesStimmen": 232,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1662,
-    "bundesStimmen": 1665,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 148,
-    "bundesStimmen": 147,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 207,
-    "bundesStimmen": 206,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Regensburg",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6245,
-    "bundesStimmen": 6228,
-    "diff": 17
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 70009,
-    "bundesStimmen": 70010,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 17632,
-    "bundesStimmen": 17630,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 8821,
-    "bundesStimmen": 8831,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 28847,
-    "bundesStimmen": 28849,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 8826,
-    "bundesStimmen": 8824,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1416,
-    "bundesStimmen": 1418,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 1029,
-    "bundesStimmen": 1023,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "BP",
-    "wahlbezirkStimmen": 371,
-    "bundesStimmen": 375,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1220,
-    "bundesStimmen": 1212,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 128,
-    "bundesStimmen": 129,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 142,
-    "bundesStimmen": 170,
-    "diff": 28
-  },
-  {
-    "wahlbezirk": "Erding – Ebersberg",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 4709,
-    "bundesStimmen": 4680,
-    "diff": 29
-  },
-  {
-    "wahlbezirk": "Essen II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 185,
-    "bundesStimmen": 232,
-    "diff": 47
-  },
-  {
-    "wahlbezirk": "Essen II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6242,
-    "bundesStimmen": 6195,
-    "diff": 47
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 33315,
-    "bundesStimmen": 33313,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 6630,
-    "bundesStimmen": 6628,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 33907,
-    "bundesStimmen": 33905,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1910,
-    "bundesStimmen": 1915,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 417,
-    "bundesStimmen": 418,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 27,
-    "bundesStimmen": 26,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 223,
-    "bundesStimmen": 224,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 209,
-    "bundesStimmen": 245,
-    "diff": 36
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7508,
-    "bundesStimmen": 7472,
-    "diff": 36
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 43,
-    "bundesStimmen": 45,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Siegen-Wittgenstein",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 349,
-    "bundesStimmen": 346,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 69740,
-    "bundesStimmen": 69739,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2813,
-    "bundesStimmen": 2814,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1433,
-    "bundesStimmen": 1437,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1414,
-    "bundesStimmen": 1416,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 36,
-    "bundesStimmen": 34,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 371,
-    "bundesStimmen": 373,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 443,
-    "bundesStimmen": 476,
-    "diff": 33
-  },
-  {
-    "wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 8216,
-    "bundesStimmen": 8171,
-    "diff": 45
-  },
-  {
-    "wahlbezirk": "Stuttgart II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 37213,
-    "bundesStimmen": 37214,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stuttgart II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 22569,
-    "bundesStimmen": 22564,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Stuttgart II",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 8087,
-    "bundesStimmen": 8085,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Stuttgart II",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 987,
-    "bundesStimmen": 986,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stuttgart II",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 218,
-    "bundesStimmen": 219,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stuttgart II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 117,
-    "bundesStimmen": 151,
-    "diff": 34
-  },
-  {
-    "wahlbezirk": "Stuttgart II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6745,
-    "bundesStimmen": 6710,
-    "diff": 35
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 38985,
-    "bundesStimmen": 38984,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 25226,
-    "bundesStimmen": 25224,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 27358,
-    "bundesStimmen": 27359,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 21330,
-    "bundesStimmen": 21334,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1518,
-    "bundesStimmen": 1517,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2364,
-    "bundesStimmen": 2363,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 855,
-    "bundesStimmen": 859,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1276,
-    "bundesStimmen": 1272,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 236,
-    "bundesStimmen": 264,
-    "diff": 28
-  },
-  {
-    "wahlbezirk": "Kassel",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 9192,
-    "bundesStimmen": 9165,
-    "diff": 27
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 78649,
-    "bundesStimmen": 78647,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 19813,
-    "bundesStimmen": 19812,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 18026,
-    "bundesStimmen": 18024,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 7349,
-    "bundesStimmen": 7350,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 41843,
-    "bundesStimmen": 41850,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 9145,
-    "bundesStimmen": 9142,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1410,
-    "bundesStimmen": 1411,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 869,
-    "bundesStimmen": 863,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 824,
-    "bundesStimmen": 826,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "BP",
-    "wahlbezirkStimmen": 302,
-    "bundesStimmen": 301,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1034,
-    "bundesStimmen": 1033,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 114,
-    "bundesStimmen": 113,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 30,
-    "bundesStimmen": 31,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 131,
-    "bundesStimmen": 150,
-    "diff": 19
-  },
-  {
-    "wahlbezirk": "Ingolstadt",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5892,
-    "bundesStimmen": 5869,
-    "diff": 23
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 43913,
-    "bundesStimmen": 43914,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 4871,
-    "bundesStimmen": 4872,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 11683,
-    "bundesStimmen": 11682,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1506,
-    "bundesStimmen": 1507,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 578,
-    "bundesStimmen": 582,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 427,
-    "bundesStimmen": 430,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "BP",
-    "wahlbezirkStimmen": 86,
-    "bundesStimmen": 87,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 910,
-    "bundesStimmen": 906,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 104,
-    "bundesStimmen": 105,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 140,
-    "bundesStimmen": 166,
-    "diff": 26
-  },
-  {
-    "wahlbezirk": "Nürnberg-Süd",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6073,
-    "bundesStimmen": 6049,
-    "diff": 24
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 74215,
-    "bundesStimmen": 74208,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 26325,
-    "bundesStimmen": 26319,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 23881,
-    "bundesStimmen": 23879,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 7483,
-    "bundesStimmen": 7482,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 35444,
-    "bundesStimmen": 35443,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 10628,
-    "bundesStimmen": 10626,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1819,
-    "bundesStimmen": 1818,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 754,
-    "bundesStimmen": 753,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 658,
-    "bundesStimmen": 657,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 28,
-    "bundesStimmen": 27,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 264,
-    "bundesStimmen": 283,
-    "diff": 19
-  },
-  {
-    "wahlbezirk": "Roth",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5878,
-    "bundesStimmen": 5859,
-    "diff": 19
-  },
-  {
-    "wahlbezirk": "Olpe – Märkischer Kreis I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 11716,
-    "bundesStimmen": 11717,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Olpe – Märkischer Kreis I",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 8901,
-    "bundesStimmen": 8900,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Olpe – Märkischer Kreis I",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1895,
-    "bundesStimmen": 1897,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Olpe – Märkischer Kreis I",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 252,
-    "bundesStimmen": 253,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Olpe – Märkischer Kreis I",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1001,
-    "bundesStimmen": 998,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Olpe – Märkischer Kreis I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 218,
-    "bundesStimmen": 243,
-    "diff": 25
-  },
-  {
-    "wahlbezirk": "Olpe – Märkischer Kreis I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6642,
-    "bundesStimmen": 6617,
-    "diff": 25
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 31483,
-    "bundesStimmen": 31486,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 53517,
-    "bundesStimmen": 53525,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 21283,
-    "bundesStimmen": 21296,
-    "diff": 13
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 9419,
-    "bundesStimmen": 9418,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 25920,
-    "bundesStimmen": 25930,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2259,
-    "bundesStimmen": 2253,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 340,
-    "bundesStimmen": 338,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 338,
-    "bundesStimmen": 340,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1401,
-    "bundesStimmen": 1399,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 38,
-    "bundesStimmen": 37,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 200,
-    "bundesStimmen": 203,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6967,
-    "bundesStimmen": 6968,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 61,
-    "bundesStimmen": 57,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Mettmann I",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 117,
-    "bundesStimmen": 118,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Fürth",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 71335,
-    "bundesStimmen": 71334,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Fürth",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 174,
-    "bundesStimmen": 201,
-    "diff": 27
-  },
-  {
-    "wahlbezirk": "Fürth",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7395,
-    "bundesStimmen": 7368,
-    "diff": 27
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 58807,
-    "bundesStimmen": 58806,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 19696,
-    "bundesStimmen": 19697,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 6832,
-    "bundesStimmen": 6833,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 29411,
-    "bundesStimmen": 29410,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 9275,
-    "bundesStimmen": 9277,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1510,
-    "bundesStimmen": 1509,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 643,
-    "bundesStimmen": 641,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "BP",
-    "wahlbezirkStimmen": 235,
-    "bundesStimmen": 236,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 200,
-    "bundesStimmen": 222,
-    "diff": 22
-  },
-  {
-    "wahlbezirk": "Aschaffenburg",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5008,
-    "bundesStimmen": 4985,
-    "diff": 23
-  },
-  {
-    "wahlbezirk": "Gießen",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 47076,
-    "bundesStimmen": 47077,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Gießen",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 21926,
-    "bundesStimmen": 21925,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Gießen",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2197,
-    "bundesStimmen": 2199,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Gießen",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 1080,
-    "bundesStimmen": 1079,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Gießen",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1548,
-    "bundesStimmen": 1547,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Gießen",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 51,
-    "bundesStimmen": 75,
-    "diff": 24
-  },
-  {
-    "wahlbezirk": "Gießen",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7913,
-    "bundesStimmen": 7889,
-    "diff": 24
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 36580,
-    "bundesStimmen": 36582,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 51057,
-    "bundesStimmen": 51046,
-    "diff": 11
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 18204,
-    "bundesStimmen": 18203,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 30502,
-    "bundesStimmen": 30498,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 444,
-    "bundesStimmen": 449,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 823,
-    "bundesStimmen": 816,
-    "diff": 7
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "PIRATEN",
-    "wahlbezirkStimmen": 288,
-    "bundesStimmen": 287,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1250,
-    "bundesStimmen": 1238,
-    "diff": 12
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 28,
-    "bundesStimmen": 27,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 217,
-    "bundesStimmen": 218,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Stade I - Rotenburg II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5508,
-    "bundesStimmen": 5507,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Recklinghausen II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 34274,
-    "bundesStimmen": 34276,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Recklinghausen II",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 30724,
-    "bundesStimmen": 30725,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Recklinghausen II",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 100,
-    "bundesStimmen": 101,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Recklinghausen II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 266,
-    "bundesStimmen": 286,
-    "diff": 20
-  },
-  {
-    "wahlbezirk": "Recklinghausen II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5891,
-    "bundesStimmen": 5870,
-    "diff": 21
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 65850,
-    "bundesStimmen": 65849,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 19105,
-    "bundesStimmen": 19104,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 15921,
-    "bundesStimmen": 15920,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 737,
-    "bundesStimmen": 738,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1914,
-    "bundesStimmen": 1912,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 695,
-    "bundesStimmen": 711,
-    "diff": 16
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 582,
-    "bundesStimmen": 585,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "BP",
-    "wahlbezirkStimmen": 280,
-    "bundesStimmen": 277,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Neu-Ulm",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1041,
-    "bundesStimmen": 1026,
-    "diff": 15
-  },
-  {
-    "wahlbezirk": "Unna I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 42845,
-    "bundesStimmen": 42844,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Unna I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 339,
-    "bundesStimmen": 359,
-    "diff": 20
-  },
-  {
-    "wahlbezirk": "Unna I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6268,
-    "bundesStimmen": 6254,
-    "diff": 14
-  },
-  {
-    "wahlbezirk": "Unna I",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 50,
-    "bundesStimmen": 45,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Unna I",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 74,
-    "bundesStimmen": 73,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Unterems",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2075,
-    "bundesStimmen": 2081,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Unterems",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1433,
-    "bundesStimmen": 1428,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Unterems",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 228,
-    "bundesStimmen": 240,
-    "diff": 12
-  },
-  {
-    "wahlbezirk": "Unterems",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7356,
-    "bundesStimmen": 7344,
-    "diff": 12
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 59236,
-    "bundesStimmen": 59231,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 17585,
-    "bundesStimmen": 17584,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 7506,
-    "bundesStimmen": 7507,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 24274,
-    "bundesStimmen": 24280,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 6312,
-    "bundesStimmen": 6309,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 5716,
-    "bundesStimmen": 5717,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 513,
-    "bundesStimmen": 512,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "BP",
-    "wahlbezirkStimmen": 542,
-    "bundesStimmen": 547,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 771,
-    "bundesStimmen": 766,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 103,
-    "bundesStimmen": 104,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 3866,
-    "bundesStimmen": 3863,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 56001,
-    "bundesStimmen": 56002,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 22192,
-    "bundesStimmen": 22195,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 18504,
-    "bundesStimmen": 18512,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 36363,
-    "bundesStimmen": 36359,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 719,
-    "bundesStimmen": 718,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 3183,
-    "bundesStimmen": 3182,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1563,
-    "bundesStimmen": 1564,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 153,
-    "bundesStimmen": 155,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Offenburg",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7533,
-    "bundesStimmen": 7523,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 41916,
-    "bundesStimmen": 41917,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 24310,
-    "bundesStimmen": 24311,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 676,
-    "bundesStimmen": 679,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 558,
-    "bundesStimmen": 557,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "BP",
-    "wahlbezirkStimmen": 153,
-    "bundesStimmen": 162,
-    "diff": 9
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1021,
-    "bundesStimmen": 1011,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 138,
-    "bundesStimmen": 139,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 94,
-    "bundesStimmen": 93,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Augsburg-Stadt",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5830,
-    "bundesStimmen": 5831,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 64166,
-    "bundesStimmen": 64165,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 18706,
-    "bundesStimmen": 18705,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 34404,
-    "bundesStimmen": 34401,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 8468,
-    "bundesStimmen": 8467,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 683,
-    "bundesStimmen": 682,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1372,
-    "bundesStimmen": 1369,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 617,
-    "bundesStimmen": 613,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 559,
-    "bundesStimmen": 561,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "BP",
-    "wahlbezirkStimmen": 333,
-    "bundesStimmen": 338,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 956,
-    "bundesStimmen": 958,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 112,
-    "bundesStimmen": 111,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Schweinfurt",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5290,
-    "bundesStimmen": 5287,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 55093,
-    "bundesStimmen": 55094,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 4171,
-    "bundesStimmen": 4169,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 8212,
-    "bundesStimmen": 8215,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 451,
-    "bundesStimmen": 449,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 902,
-    "bundesStimmen": 896,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 346,
-    "bundesStimmen": 347,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "BP",
-    "wahlbezirkStimmen": 308,
-    "bundesStimmen": 306,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Weiden",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 409,
-    "bundesStimmen": 417,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Ravensburg",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 718,
-    "bundesStimmen": 730,
-    "diff": 12
-  },
-  {
-    "wahlbezirk": "Ravensburg",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 2679,
-    "bundesStimmen": 2667,
-    "diff": 12
-  },
-  {
-    "wahlbezirk": "Krefeld II – Wesel II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 15327,
-    "bundesStimmen": 15317,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Krefeld II – Wesel II",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 6700,
-    "bundesStimmen": 6702,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Krefeld II – Wesel II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 857,
-    "bundesStimmen": 867,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 66361,
-    "bundesStimmen": 66360,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 19038,
-    "bundesStimmen": 19040,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2269,
-    "bundesStimmen": 2273,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1007,
-    "bundesStimmen": 997,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 351,
-    "bundesStimmen": 352,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 245,
-    "bundesStimmen": 244,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 45,
-    "bundesStimmen": 46,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Soest",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 97,
-    "bundesStimmen": 96,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 41849,
-    "bundesStimmen": 41847,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 51261,
-    "bundesStimmen": 51262,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 13544,
-    "bundesStimmen": 13545,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 944,
-    "bundesStimmen": 945,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 324,
-    "bundesStimmen": 325,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 509,
-    "bundesStimmen": 512,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 740,
-    "bundesStimmen": 741,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 871,
-    "bundesStimmen": 866,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 299,
-    "bundesStimmen": 298,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 8202,
-    "bundesStimmen": 8203,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 96,
-    "bundesStimmen": 97,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hamm – Unna II",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 82,
-    "bundesStimmen": 81,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 38967,
-    "bundesStimmen": 38973,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 38607,
-    "bundesStimmen": 38608,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 13759,
-    "bundesStimmen": 13760,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 5245,
-    "bundesStimmen": 5247,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 31565,
-    "bundesStimmen": 31566,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 12770,
-    "bundesStimmen": 12769,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2566,
-    "bundesStimmen": 2562,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Oberhausen – Wesel III",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7331,
-    "bundesStimmen": 7330,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Paderborn",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 26308,
-    "bundesStimmen": 26305,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Paderborn",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 71373,
-    "bundesStimmen": 71383,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Paderborn",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 36233,
-    "bundesStimmen": 36232,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Paderborn",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 13550,
-    "bundesStimmen": 13551,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Paderborn",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 1171,
-    "bundesStimmen": 1170,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Paderborn",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 284,
-    "bundesStimmen": 285,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ennepe-Ruhr-Kreis II",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 10660,
-    "bundesStimmen": 10659,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ennepe-Ruhr-Kreis II",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 311,
-    "bundesStimmen": 312,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ennepe-Ruhr-Kreis II",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 230,
-    "bundesStimmen": 236,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Ennepe-Ruhr-Kreis II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 672,
-    "bundesStimmen": 673,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Ennepe-Ruhr-Kreis II",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 785,
-    "bundesStimmen": 779,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Ennepe-Ruhr-Kreis II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 243,
-    "bundesStimmen": 242,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bochum I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 38257,
-    "bundesStimmen": 38267,
-    "diff": 10
-  },
-  {
-    "wahlbezirk": "Bochum I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 24221,
-    "bundesStimmen": 24224,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Bochum I",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 71,
-    "bundesStimmen": 72,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bochum I",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 69,
-    "bundesStimmen": 67,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 17573,
-    "bundesStimmen": 17576,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 70160,
-    "bundesStimmen": 70158,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 15342,
-    "bundesStimmen": 15344,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 4942,
-    "bundesStimmen": 4941,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 4462,
-    "bundesStimmen": 4463,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 2199,
-    "bundesStimmen": 2200,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 1148,
-    "bundesStimmen": 1146,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 796,
-    "bundesStimmen": 795,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Börde – Salzlandkreis",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 19060,
-    "bundesStimmen": 19062,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 38213,
-    "bundesStimmen": 38211,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 39620,
-    "bundesStimmen": 39618,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 12573,
-    "bundesStimmen": 12572,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 5962,
-    "bundesStimmen": 5961,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 30283,
-    "bundesStimmen": 30278,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 10897,
-    "bundesStimmen": 10896,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1233,
-    "bundesStimmen": 1232,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Nord",
-    "partei": "CSU",
-    "wahlbezirkStimmen": 41088,
-    "bundesStimmen": 41084,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Nürnberg-Nord",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 23567,
-    "bundesStimmen": 23568,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Nord",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 29684,
-    "bundesStimmen": 29683,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Nord",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1762,
-    "bundesStimmen": 1761,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürnberg-Nord",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1584,
-    "bundesStimmen": 1582,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Nürnberg-Nord",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5626,
-    "bundesStimmen": 5622,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 61952,
-    "bundesStimmen": 61951,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 14285,
-    "bundesStimmen": 14283,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 8158,
-    "bundesStimmen": 8157,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 40150,
-    "bundesStimmen": 40149,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 8333,
-    "bundesStimmen": 8330,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 3243,
-    "bundesStimmen": 3245,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1476,
-    "bundesStimmen": 1475,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Odenwald – Tauber",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 700,
-    "bundesStimmen": 698,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Bodensee",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 50587,
-    "bundesStimmen": 50583,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Bodensee",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 8288,
-    "bundesStimmen": 8286,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Bodensee",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 27289,
-    "bundesStimmen": 27287,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Bodensee",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 8002,
-    "bundesStimmen": 8004,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Bodensee",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 508,
-    "bundesStimmen": 507,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bodensee",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 49,
-    "bundesStimmen": 50,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bodensee",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5848,
-    "bundesStimmen": 5847,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Traunstein",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 11218,
-    "bundesStimmen": 11217,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Traunstein",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 7514,
-    "bundesStimmen": 7515,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Traunstein",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 979,
-    "bundesStimmen": 976,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Traunstein",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 1002,
-    "bundesStimmen": 1001,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Traunstein",
-    "partei": "BP",
-    "wahlbezirkStimmen": 437,
-    "bundesStimmen": 441,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Traunstein",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 661,
-    "bundesStimmen": 662,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Traunstein",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5906,
-    "bundesStimmen": 5905,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 42086,
-    "bundesStimmen": 42085,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 13823,
-    "bundesStimmen": 13824,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 33839,
-    "bundesStimmen": 33836,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 12359,
-    "bundesStimmen": 12357,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 538,
-    "bundesStimmen": 539,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1130,
-    "bundesStimmen": 1129,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 815,
-    "bundesStimmen": 816,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Salzgitter - Wolfenbüttel",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6405,
-    "bundesStimmen": 6404,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aachen 2",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 37901,
-    "bundesStimmen": 37902,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Aachen 2",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 34586,
-    "bundesStimmen": 34578,
-    "diff": 8
-  },
-  {
-    "wahlbezirk": "Aachen 2",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 12305,
-    "bundesStimmen": 12303,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Heinsberg",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 26663,
-    "bundesStimmen": 26662,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Heinsberg",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 54971,
-    "bundesStimmen": 54975,
-    "diff": 4
-  },
-  {
-    "wahlbezirk": "Heinsberg",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 13623,
-    "bundesStimmen": 13621,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Heinsberg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 31408,
-    "bundesStimmen": 31410,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Heinsberg",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 9856,
-    "bundesStimmen": 9855,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Heinsberg",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6077,
-    "bundesStimmen": 6076,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Solingen - Remscheid - Wuppertal II",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 2328,
-    "bundesStimmen": 2327,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Solingen - Remscheid - Wuppertal II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 1140,
-    "bundesStimmen": 1138,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Solingen - Remscheid - Wuppertal II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 668,
-    "bundesStimmen": 669,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Solingen - Remscheid - Wuppertal II",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1331,
-    "bundesStimmen": 1325,
-    "diff": 6
-  },
-  {
-    "wahlbezirk": "Solingen - Remscheid - Wuppertal II",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 110,
-    "bundesStimmen": 109,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rheingau-Taunus – Limburg",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 30840,
-    "bundesStimmen": 30839,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rheingau-Taunus – Limburg",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 22141,
-    "bundesStimmen": 22142,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rheingau-Taunus – Limburg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 31947,
-    "bundesStimmen": 31944,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Rheingau-Taunus – Limburg",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1647,
-    "bundesStimmen": 1646,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rheingau-Taunus – Limburg",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 147,
-    "bundesStimmen": 148,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Rheingau-Taunus – Limburg",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 36,
-    "bundesStimmen": 38,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Rheingau-Taunus – Limburg",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 313,
-    "bundesStimmen": 311,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Mettmann II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 41357,
-    "bundesStimmen": 41355,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Mettmann II",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 6817,
-    "bundesStimmen": 6816,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Mettmann II",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 9159,
-    "bundesStimmen": 9158,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Mettmann II",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 249,
-    "bundesStimmen": 250,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Mettmann II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5533,
-    "bundesStimmen": 5538,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Essen III",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1841,
-    "bundesStimmen": 1840,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Essen III",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 989,
-    "bundesStimmen": 990,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Essen III",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 219,
-    "bundesStimmen": 218,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Essen III",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 208,
-    "bundesStimmen": 209,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Essen III",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 515,
-    "bundesStimmen": 513,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Essen III",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1284,
-    "bundesStimmen": 1287,
-    "diff": 3
-  },
-  {
-    "wahlbezirk": "Karlsruhe-Land",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 58133,
-    "bundesStimmen": 58135,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Karlsruhe-Land",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 23377,
-    "bundesStimmen": 23378,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Karlsruhe-Land",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 9723,
-    "bundesStimmen": 9721,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Karlsruhe-Land",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 33394,
-    "bundesStimmen": 33393,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Karlsruhe-Land",
-    "partei": "BÜNDNIS C",
-    "wahlbezirkStimmen": 409,
-    "bundesStimmen": 408,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Karlsruhe-Land",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6746,
-    "bundesStimmen": 6744,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 27787,
-    "bundesStimmen": 27788,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 11434,
-    "bundesStimmen": 11435,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 32475,
-    "bundesStimmen": 32474,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "DIEBASIS",
-    "wahlbezirkStimmen": 417,
-    "bundesStimmen": 418,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "TEAM TODENHÖFER",
-    "wahlbezirkStimmen": 327,
-    "bundesStimmen": 328,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 650,
-    "bundesStimmen": 649,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 383,
-    "bundesStimmen": 382,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Märkischer Kreis II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6552,
-    "bundesStimmen": 6553,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "cuxhaven - stade II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 45963,
-    "bundesStimmen": 45964,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "cuxhaven - stade II",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 5824,
-    "bundesStimmen": 5823,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "cuxhaven - stade II",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 30931,
-    "bundesStimmen": 30933,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "cuxhaven - stade II",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 9281,
-    "bundesStimmen": 9280,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "cuxhaven - stade II",
-    "partei": "PIRATEN",
-    "wahlbezirkStimmen": 226,
-    "bundesStimmen": 225,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "cuxhaven - stade II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 5730,
-    "bundesStimmen": 5729,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Minden-Lübbecke I",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 44595,
-    "bundesStimmen": 44594,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Minden-Lübbecke I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 15378,
-    "bundesStimmen": 15379,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Minden-Lübbecke I",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 6783,
-    "bundesStimmen": 6785,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Minden-Lübbecke I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 35284,
-    "bundesStimmen": 35282,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Minden-Lübbecke I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 7240,
-    "bundesStimmen": 7239,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Cloppenburg - Vechta",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 38352,
-    "bundesStimmen": 38357,
-    "diff": 5
-  },
-  {
-    "wahlbezirk": "Cloppenburg - Vechta",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6221,
-    "bundesStimmen": 6220,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Gifhorn - Peine",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 43691,
-    "bundesStimmen": 43689,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Gifhorn - Peine",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 6808,
-    "bundesStimmen": 6809,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Gifhorn - Peine",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 38989,
-    "bundesStimmen": 38988,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Gifhorn - Peine",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 11871,
-    "bundesStimmen": 11869,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Goslar – Northeim – Göttingen II",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 43210,
-    "bundesStimmen": 43211,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Goslar – Northeim – Göttingen II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 13464,
-    "bundesStimmen": 13463,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Goslar – Northeim – Göttingen II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 722,
-    "bundesStimmen": 723,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Goslar – Northeim – Göttingen II",
-    "partei": "PIRATEN",
-    "wahlbezirkStimmen": 246,
-    "bundesStimmen": 245,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Goslar – Northeim – Göttingen II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 245,
-    "bundesStimmen": 246,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Goslar – Northeim – Göttingen II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6035,
-    "bundesStimmen": 6034,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Herford – Minden-Lübbecke II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 17507,
-    "bundesStimmen": 17508,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Herford – Minden-Lübbecke II",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 1134,
-    "bundesStimmen": 1132,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Herford – Minden-Lübbecke II",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1124,
-    "bundesStimmen": 1122,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Herford – Minden-Lübbecke II",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 8700,
-    "bundesStimmen": 8701,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Düren",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 834,
-    "bundesStimmen": 835,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Düren",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1179,
-    "bundesStimmen": 1178,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Düren",
-    "partei": "MERA25",
-    "wahlbezirkStimmen": 43,
-    "bundesStimmen": 44,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Düren",
-    "partei": "WERTEUNION",
-    "wahlbezirkStimmen": 108,
-    "bundesStimmen": 107,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Lippe I",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 1059,
-    "bundesStimmen": 1058,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Lippe I",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 33,
-    "bundesStimmen": 34,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Lippe I",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 324,
-    "bundesStimmen": 323,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Lippe I",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 8069,
-    "bundesStimmen": 8070,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Marburg",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 27521,
-    "bundesStimmen": 27522,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Marburg",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1689,
-    "bundesStimmen": 1690,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Marburg",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 945,
-    "bundesStimmen": 944,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Marburg",
-    "partei": "PDH",
-    "wahlbezirkStimmen": 116,
-    "bundesStimmen": 115,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hochtaunus",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 25251,
-    "bundesStimmen": 25252,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hochtaunus",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1773,
-    "bundesStimmen": 1772,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hochtaunus",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 629,
-    "bundesStimmen": 630,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hochtaunus",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 1292,
-    "bundesStimmen": 1291,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Böblingen",
-    "partei": "ÖDP",
-    "wahlbezirkStimmen": 328,
-    "bundesStimmen": 329,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Böblingen",
-    "partei": "BÜNDNIS C",
-    "wahlbezirkStimmen": 421,
-    "bundesStimmen": 422,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Böblingen",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 223,
-    "bundesStimmen": 221,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Reutlingen",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 21625,
-    "bundesStimmen": 21626,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Reutlingen",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 10604,
-    "bundesStimmen": 10605,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Reutlingen",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 34596,
-    "bundesStimmen": 34595,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Reutlingen",
-    "partei": "VOLT",
-    "wahlbezirkStimmen": 994,
-    "bundesStimmen": 993,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Köln III",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 33495,
-    "bundesStimmen": 33496,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Köln III",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 32523,
-    "bundesStimmen": 32522,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Köln III",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 18861,
-    "bundesStimmen": 18860,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Recklinghausen I",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 12446,
-    "bundesStimmen": 12447,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Recklinghausen I",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 25875,
-    "bundesStimmen": 25874,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Recklinghausen I",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 170,
-    "bundesStimmen": 169,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bruchsal – Schwetzingen",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 23131,
-    "bundesStimmen": 23130,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bruchsal – Schwetzingen",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 36134,
-    "bundesStimmen": 36132,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Burgenland – Saalekreis",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 29390,
-    "bundesStimmen": 29389,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Burgenland – Saalekreis",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 5128,
-    "bundesStimmen": 5127,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Borken I",
-    "partei": "MLPD",
-    "wahlbezirkStimmen": 25,
-    "bundesStimmen": 26,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Borken I",
-    "partei": "PDF",
-    "wahlbezirkStimmen": 327,
-    "bundesStimmen": 326,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Borken II",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 36477,
-    "bundesStimmen": 36478,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Borken II",
-    "partei": "GRÜNE",
-    "wahlbezirkStimmen": 19904,
-    "bundesStimmen": 19903,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hochsauerlandkreis",
-    "partei": "TIERSCHUTZPARTEI",
-    "wahlbezirkStimmen": 1957,
-    "bundesStimmen": 1958,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Hochsauerlandkreis",
-    "partei": "FREIE WÄHLER",
-    "wahlbezirkStimmen": 1143,
-    "bundesStimmen": 1142,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bayreuth",
-    "partei": "FDP",
-    "wahlbezirkStimmen": 4988,
-    "bundesStimmen": 4987,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Bayreuth",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 7604,
-    "bundesStimmen": 7605,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Esslingen",
-    "partei": "SPD",
-    "wahlbezirkStimmen": 21535,
-    "bundesStimmen": 21533,
-    "diff": 2
-  },
-  {
-    "wahlbezirk": "Nürtingen",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 31028,
-    "bundesStimmen": 31029,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Nürtingen",
-    "partei": "DIE LINKE",
-    "wahlbezirkStimmen": 9952,
-    "bundesStimmen": 9951,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Helmstedt – Wolfsburg",
-    "partei": "DIE PARTEI",
-    "wahlbezirkStimmen": 685,
-    "bundesStimmen": 684,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Mansfeld",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 69615,
-    "bundesStimmen": 69616,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Kleve",
-    "partei": "CDU",
-    "wahlbezirkStimmen": 66214,
-    "bundesStimmen": 66213,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Herne - Bochum II",
-    "partei": "BÜNDNIS DEUTSCHLAND",
-    "wahlbezirkStimmen": 334,
-    "bundesStimmen": 333,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Altötting",
-    "partei": "AFD",
-    "wahlbezirkStimmen": 33186,
-    "bundesStimmen": 33187,
-    "diff": 1
-  },
-  {
-    "wahlbezirk": "Göppingen",
-    "partei": "BSW",
-    "wahlbezirkStimmen": 6138,
-    "bundesStimmen": 6137,
-    "diff": 1
-  }
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 27446,
+		"bundesStimmen": 27232,
+		"diff": 214
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 43594,
+		"bundesStimmen": 43380,
+		"diff": 214
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 7276,
+		"bundesStimmen": 7478,
+		"diff": 202
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 32107,
+		"bundesStimmen": 31913,
+		"diff": 194
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 21526,
+		"bundesStimmen": 21710,
+		"diff": 184
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 39012,
+		"bundesStimmen": 38855,
+		"diff": 157
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 35554,
+		"bundesStimmen": 35445,
+		"diff": 109
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 30611,
+		"bundesStimmen": 30515,
+		"diff": 96
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 28062,
+		"bundesStimmen": 27970,
+		"diff": 92
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 27299,
+		"bundesStimmen": 27221,
+		"diff": 78
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 11857,
+		"bundesStimmen": 11933,
+		"diff": 76
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 13596,
+		"bundesStimmen": 13527,
+		"diff": 69
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 40878,
+		"bundesStimmen": 40810,
+		"diff": 68
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 24129,
+		"bundesStimmen": 24194,
+		"diff": 65
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 15998,
+		"bundesStimmen": 15934,
+		"diff": 64
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 13511,
+		"bundesStimmen": 13448,
+		"diff": 63
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 61,
+		"bundesStimmen": 122,
+		"diff": 61
+	},
+	{
+		"wahlbezirk": "Rastatt",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6680,
+		"bundesStimmen": 6619,
+		"diff": 61
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 35829,
+		"bundesStimmen": 35769,
+		"diff": 60
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6428,
+		"bundesStimmen": 6369,
+		"diff": 59
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 32590,
+		"bundesStimmen": 32533,
+		"diff": 57
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 64035,
+		"bundesStimmen": 64092,
+		"diff": 57
+	},
+	{
+		"wahlbezirk": "Rastatt",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 139,
+		"bundesStimmen": 194,
+		"diff": 55
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 19165,
+		"bundesStimmen": 19111,
+		"diff": 54
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7367,
+		"bundesStimmen": 7316,
+		"diff": 51
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6292,
+		"bundesStimmen": 6243,
+		"diff": 49
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 23882,
+		"bundesStimmen": 23930,
+		"diff": 48
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 51321,
+		"bundesStimmen": 51273,
+		"diff": 48
+	},
+	{
+		"wahlbezirk": "Essen II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 185,
+		"bundesStimmen": 232,
+		"diff": 47
+	},
+	{
+		"wahlbezirk": "Essen II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6242,
+		"bundesStimmen": 6195,
+		"diff": 47
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 25647,
+		"bundesStimmen": 25602,
+		"diff": 45
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 8216,
+		"bundesStimmen": 8171,
+		"diff": 45
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 37140,
+		"bundesStimmen": 37097,
+		"diff": 43
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 9618,
+		"bundesStimmen": 9575,
+		"diff": 43
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 25059,
+		"bundesStimmen": 25017,
+		"diff": 42
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 346,
+		"bundesStimmen": 388,
+		"diff": 42
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6304,
+		"bundesStimmen": 6263,
+		"diff": 41
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 186,
+		"bundesStimmen": 225,
+		"diff": 39
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 209,
+		"bundesStimmen": 245,
+		"diff": 36
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7508,
+		"bundesStimmen": 7472,
+		"diff": 36
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 72641,
+		"bundesStimmen": 72605,
+		"diff": 36
+	},
+	{
+		"wahlbezirk": "Stuttgart II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6745,
+		"bundesStimmen": 6710,
+		"diff": 35
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 209,
+		"bundesStimmen": 243,
+		"diff": 34
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5560,
+		"bundesStimmen": 5526,
+		"diff": 34
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 32758,
+		"bundesStimmen": 32724,
+		"diff": 34
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1227,
+		"bundesStimmen": 1261,
+		"diff": 34
+	},
+	{
+		"wahlbezirk": "Stuttgart II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 117,
+		"bundesStimmen": 151,
+		"diff": 34
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 443,
+		"bundesStimmen": 476,
+		"diff": 33
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 41432,
+		"bundesStimmen": 41399,
+		"diff": 33
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 4709,
+		"bundesStimmen": 4680,
+		"diff": 29
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 8760,
+		"bundesStimmen": 8732,
+		"diff": 28
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 236,
+		"bundesStimmen": 264,
+		"diff": 28
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 142,
+		"bundesStimmen": 170,
+		"diff": 28
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 9192,
+		"bundesStimmen": 9165,
+		"diff": 27
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 25308,
+		"bundesStimmen": 25281,
+		"diff": 27
+	},
+	{
+		"wahlbezirk": "Fürth",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 174,
+		"bundesStimmen": 201,
+		"diff": 27
+	},
+	{
+		"wahlbezirk": "Fürth",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7395,
+		"bundesStimmen": 7368,
+		"diff": 27
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 31526,
+		"bundesStimmen": 31552,
+		"diff": 26
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 140,
+		"bundesStimmen": 166,
+		"diff": 26
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 23850,
+		"bundesStimmen": 23825,
+		"diff": 25
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 400,
+		"bundesStimmen": 425,
+		"diff": 25
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 18608,
+		"bundesStimmen": 18583,
+		"diff": 25
+	},
+	{
+		"wahlbezirk": "Olpe – Märkischer Kreis I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 218,
+		"bundesStimmen": 243,
+		"diff": 25
+	},
+	{
+		"wahlbezirk": "Olpe – Märkischer Kreis I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6642,
+		"bundesStimmen": 6617,
+		"diff": 25
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 75612,
+		"bundesStimmen": 75587,
+		"diff": 25
+	},
+	{
+		"wahlbezirk": "Gießen",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 51,
+		"bundesStimmen": 75,
+		"diff": 24
+	},
+	{
+		"wahlbezirk": "Gießen",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7913,
+		"bundesStimmen": 7889,
+		"diff": 24
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6073,
+		"bundesStimmen": 6049,
+		"diff": 24
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5892,
+		"bundesStimmen": 5869,
+		"diff": 23
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5008,
+		"bundesStimmen": 4985,
+		"diff": 23
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 200,
+		"bundesStimmen": 222,
+		"diff": 22
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 30704,
+		"bundesStimmen": 30725,
+		"diff": 21
+	},
+	{
+		"wahlbezirk": "Recklinghausen II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5891,
+		"bundesStimmen": 5870,
+		"diff": 21
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 303,
+		"bundesStimmen": 323,
+		"diff": 20
+	},
+	{
+		"wahlbezirk": "Recklinghausen II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 266,
+		"bundesStimmen": 286,
+		"diff": 20
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 11756,
+		"bundesStimmen": 11736,
+		"diff": 20
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 29044,
+		"bundesStimmen": 29064,
+		"diff": 20
+	},
+	{
+		"wahlbezirk": "Unna I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 339,
+		"bundesStimmen": 359,
+		"diff": 20
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 8259,
+		"bundesStimmen": 8239,
+		"diff": 20
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 131,
+		"bundesStimmen": 150,
+		"diff": 19
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 264,
+		"bundesStimmen": 283,
+		"diff": 19
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5878,
+		"bundesStimmen": 5859,
+		"diff": 19
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5266,
+		"bundesStimmen": 5247,
+		"diff": 19
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6305,
+		"bundesStimmen": 6288,
+		"diff": 17
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 44,
+		"bundesStimmen": 61,
+		"diff": 17
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6245,
+		"bundesStimmen": 6228,
+		"diff": 17
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 5683,
+		"bundesStimmen": 5667,
+		"diff": 16
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 58,
+		"bundesStimmen": 74,
+		"diff": 16
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 115,
+		"bundesStimmen": 131,
+		"diff": 16
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5031,
+		"bundesStimmen": 5015,
+		"diff": 16
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 695,
+		"bundesStimmen": 711,
+		"diff": 16
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5423,
+		"bundesStimmen": 5408,
+		"diff": 15
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1041,
+		"bundesStimmen": 1026,
+		"diff": 15
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "BÜNDNIS C",
+		"wahlbezirkStimmen": 133,
+		"bundesStimmen": 148,
+		"diff": 15
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5306,
+		"bundesStimmen": 5291,
+		"diff": 15
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1694,
+		"bundesStimmen": 1680,
+		"diff": 14
+	},
+	{
+		"wahlbezirk": "Unna I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6268,
+		"bundesStimmen": 6254,
+		"diff": 14
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 21283,
+		"bundesStimmen": 21296,
+		"diff": 13
+	},
+	{
+		"wahlbezirk": "Unterems",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 228,
+		"bundesStimmen": 240,
+		"diff": 12
+	},
+	{
+		"wahlbezirk": "Unterems",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7356,
+		"bundesStimmen": 7344,
+		"diff": 12
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1250,
+		"bundesStimmen": 1238,
+		"diff": 12
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 54,
+		"bundesStimmen": 66,
+		"diff": 12
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 28304,
+		"bundesStimmen": 28292,
+		"diff": 12
+	},
+	{
+		"wahlbezirk": "Ravensburg",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 718,
+		"bundesStimmen": 730,
+		"diff": 12
+	},
+	{
+		"wahlbezirk": "Ravensburg",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 2679,
+		"bundesStimmen": 2667,
+		"diff": 12
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 51057,
+		"bundesStimmen": 51046,
+		"diff": 11
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 32389,
+		"bundesStimmen": 32399,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 249,
+		"bundesStimmen": 259,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 25920,
+		"bundesStimmen": 25930,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Krefeld II – Wesel II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 15327,
+		"bundesStimmen": 15317,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Krefeld II – Wesel II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 857,
+		"bundesStimmen": 867,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 649,
+		"bundesStimmen": 659,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Paderborn",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 71373,
+		"bundesStimmen": 71383,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Bochum I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 38257,
+		"bundesStimmen": 38267,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1007,
+		"bundesStimmen": 997,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 8821,
+		"bundesStimmen": 8831,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 14788,
+		"bundesStimmen": 14778,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1021,
+		"bundesStimmen": 1011,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7533,
+		"bundesStimmen": 7523,
+		"diff": 10
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 10284,
+		"bundesStimmen": 10293,
+		"diff": 9
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 2945,
+		"bundesStimmen": 2954,
+		"diff": 9
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 5906,
+		"bundesStimmen": 5897,
+		"diff": 9
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 275,
+		"bundesStimmen": 284,
+		"diff": 9
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "BP",
+		"wahlbezirkStimmen": 153,
+		"bundesStimmen": 162,
+		"diff": 9
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1828,
+		"bundesStimmen": 1820,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Aachen 2",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 34586,
+		"bundesStimmen": 34578,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 218,
+		"bundesStimmen": 226,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 53517,
+		"bundesStimmen": 53525,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1220,
+		"bundesStimmen": 1212,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 21606,
+		"bundesStimmen": 21598,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 5138,
+		"bundesStimmen": 5146,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 409,
+		"bundesStimmen": 417,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 104,
+		"bundesStimmen": 112,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 11759,
+		"bundesStimmen": 11751,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 18504,
+		"bundesStimmen": 18512,
+		"diff": 8
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 823,
+		"bundesStimmen": 816,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1912,
+		"bundesStimmen": 1905,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 702,
+		"bundesStimmen": 695,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1066,
+		"bundesStimmen": 1073,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 41843,
+		"bundesStimmen": 41850,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 10969,
+		"bundesStimmen": 10962,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 9716,
+		"bundesStimmen": 9709,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 875,
+		"bundesStimmen": 882,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 74215,
+		"bundesStimmen": 74208,
+		"diff": 7
+	},
+	{
+		"wahlbezirk": "Unterems",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2075,
+		"bundesStimmen": 2081,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 8248,
+		"bundesStimmen": 8242,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Solingen - Remscheid - Wuppertal II",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1331,
+		"bundesStimmen": 1325,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2259,
+		"bundesStimmen": 2253,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 38967,
+		"bundesStimmen": 38973,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Ennepe-Ruhr-Kreis II",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 230,
+		"bundesStimmen": 236,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Ennepe-Ruhr-Kreis II",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 785,
+		"bundesStimmen": 779,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 1029,
+		"bundesStimmen": 1023,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 869,
+		"bundesStimmen": 863,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 24274,
+		"bundesStimmen": 24280,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 39749,
+		"bundesStimmen": 39743,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 902,
+		"bundesStimmen": 896,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 26325,
+		"bundesStimmen": 26319,
+		"diff": 6
+	},
+	{
+		"wahlbezirk": "Unterems",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1433,
+		"bundesStimmen": 1428,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 30283,
+		"bundesStimmen": 30278,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 444,
+		"bundesStimmen": 449,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Cloppenburg - Vechta",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 38352,
+		"bundesStimmen": 38357,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 5632,
+		"bundesStimmen": 5627,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Mettmann II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5533,
+		"bundesStimmen": 5538,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 396,
+		"bundesStimmen": 401,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Unna I",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 50,
+		"bundesStimmen": 45,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 871,
+		"bundesStimmen": 866,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1910,
+		"bundesStimmen": 1915,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 59236,
+		"bundesStimmen": 59231,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "BP",
+		"wahlbezirkStimmen": 542,
+		"bundesStimmen": 547,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 771,
+		"bundesStimmen": 766,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 762,
+		"bundesStimmen": 757,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "BP",
+		"wahlbezirkStimmen": 333,
+		"bundesStimmen": 338,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Stuttgart II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 22569,
+		"bundesStimmen": 22564,
+		"diff": 5
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 30502,
+		"bundesStimmen": 30498,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Heinsberg",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 54971,
+		"bundesStimmen": 54975,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1433,
+		"bundesStimmen": 1437,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 855,
+		"bundesStimmen": 859,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 6286,
+		"bundesStimmen": 6282,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 61,
+		"bundesStimmen": 57,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2566,
+		"bundesStimmen": 2562,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2367,
+		"bundesStimmen": 2363,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 808,
+		"bundesStimmen": 804,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2269,
+		"bundesStimmen": 2273,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 21330,
+		"bundesStimmen": 21334,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 855,
+		"bundesStimmen": 859,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1276,
+		"bundesStimmen": 1272,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "BP",
+		"wahlbezirkStimmen": 371,
+		"bundesStimmen": 375,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Traunstein",
+		"partei": "BP",
+		"wahlbezirkStimmen": 437,
+		"bundesStimmen": 441,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 7410,
+		"bundesStimmen": 7406,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Nürnberg-Nord",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 41088,
+		"bundesStimmen": 41084,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Nürnberg-Nord",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5626,
+		"bundesStimmen": 5622,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 578,
+		"bundesStimmen": 582,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 910,
+		"bundesStimmen": 906,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 8048,
+		"bundesStimmen": 8052,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 617,
+		"bundesStimmen": 613,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 36363,
+		"bundesStimmen": 36359,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Bodensee",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 50587,
+		"bundesStimmen": 50583,
+		"diff": 4
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1055,
+		"bundesStimmen": 1052,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 33839,
+		"bundesStimmen": 33836,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 17573,
+		"bundesStimmen": 17576,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 40603,
+		"bundesStimmen": 40600,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 999,
+		"bundesStimmen": 1002,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 111,
+		"bundesStimmen": 114,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 31483,
+		"bundesStimmen": 31486,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 200,
+		"bundesStimmen": 203,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 12260,
+		"bundesStimmen": 12257,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Essen III",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1284,
+		"bundesStimmen": 1287,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1793,
+		"bundesStimmen": 1796,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1357,
+		"bundesStimmen": 1354,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Paderborn",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 26308,
+		"bundesStimmen": 26305,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 305,
+		"bundesStimmen": 302,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 52,
+		"bundesStimmen": 55,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Bochum I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 24221,
+		"bundesStimmen": 24224,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 509,
+		"bundesStimmen": 512,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 349,
+		"bundesStimmen": 346,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Olpe – Märkischer Kreis I",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1001,
+		"bundesStimmen": 998,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Rheingau-Taunus – Limburg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 31947,
+		"bundesStimmen": 31944,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 9145,
+		"bundesStimmen": 9142,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 6312,
+		"bundesStimmen": 6309,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 3866,
+		"bundesStimmen": 3863,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 771,
+		"bundesStimmen": 774,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1456,
+		"bundesStimmen": 1453,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Traunstein",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 979,
+		"bundesStimmen": 976,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 23592,
+		"bundesStimmen": 23589,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 10437,
+		"bundesStimmen": 10440,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 529,
+		"bundesStimmen": 526,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1408,
+		"bundesStimmen": 1405,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "BP",
+		"wahlbezirkStimmen": 235,
+		"bundesStimmen": 232,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1662,
+		"bundesStimmen": 1665,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 8212,
+		"bundesStimmen": 8215,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 427,
+		"bundesStimmen": 430,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 618,
+		"bundesStimmen": 621,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 34404,
+		"bundesStimmen": 34401,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1372,
+		"bundesStimmen": 1369,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5290,
+		"bundesStimmen": 5287,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 676,
+		"bundesStimmen": 679,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 582,
+		"bundesStimmen": 585,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "BP",
+		"wahlbezirkStimmen": 280,
+		"bundesStimmen": 277,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 111,
+		"bundesStimmen": 108,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Rastatt",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 35,
+		"bundesStimmen": 38,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 8333,
+		"bundesStimmen": 8330,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 22192,
+		"bundesStimmen": 22195,
+		"diff": 3
+	},
+	{
+		"wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 38213,
+		"bundesStimmen": 38211,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 39620,
+		"bundesStimmen": 39618,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "cuxhaven - stade II",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 30931,
+		"bundesStimmen": 30933,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 36580,
+		"bundesStimmen": 36582,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1878,
+		"bundesStimmen": 1880,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Gifhorn - Peine",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 43691,
+		"bundesStimmen": 43689,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Gifhorn - Peine",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 11871,
+		"bundesStimmen": 11869,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 561,
+		"bundesStimmen": 559,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 87,
+		"bundesStimmen": 85,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 12359,
+		"bundesStimmen": 12357,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 70160,
+		"bundesStimmen": 70158,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 15342,
+		"bundesStimmen": 15344,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 1148,
+		"bundesStimmen": 1146,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 19060,
+		"bundesStimmen": 19062,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Aachen 2",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 12305,
+		"bundesStimmen": 12303,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Heinsberg",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 13623,
+		"bundesStimmen": 13621,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Heinsberg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 31408,
+		"bundesStimmen": 31410,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 34398,
+		"bundesStimmen": 34400,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 14817,
+		"bundesStimmen": 14819,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1091,
+		"bundesStimmen": 1089,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1393,
+		"bundesStimmen": 1391,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 373,
+		"bundesStimmen": 371,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1414,
+		"bundesStimmen": 1416,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 36,
+		"bundesStimmen": 34,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 371,
+		"bundesStimmen": 373,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 27584,
+		"bundesStimmen": 27582,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 305,
+		"bundesStimmen": 303,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1923,
+		"bundesStimmen": 1925,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 670,
+		"bundesStimmen": 672,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Wuppertal I",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1169,
+		"bundesStimmen": 1171,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Solingen - Remscheid - Wuppertal II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 1140,
+		"bundesStimmen": 1138,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 340,
+		"bundesStimmen": 338,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 338,
+		"bundesStimmen": 340,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1401,
+		"bundesStimmen": 1399,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Mettmann II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 41357,
+		"bundesStimmen": 41355,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 53361,
+		"bundesStimmen": 53363,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 36,
+		"bundesStimmen": 38,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 90,
+		"bundesStimmen": 88,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Krefeld II – Wesel II",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 6700,
+		"bundesStimmen": 6702,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 201,
+		"bundesStimmen": 199,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 504,
+		"bundesStimmen": 502,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 545,
+		"bundesStimmen": 543,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 98,
+		"bundesStimmen": 96,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 5245,
+		"bundesStimmen": 5247,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Essen III",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 515,
+		"bundesStimmen": 513,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Recklinghausen II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 34274,
+		"bundesStimmen": 34276,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 823,
+		"bundesStimmen": 825,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Warendorf",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 360,
+		"bundesStimmen": 358,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Herford – Minden-Lübbecke II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 1134,
+		"bundesStimmen": 1132,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Herford – Minden-Lübbecke II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1124,
+		"bundesStimmen": 1122,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Minden-Lübbecke I",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 6783,
+		"bundesStimmen": 6785,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Minden-Lübbecke I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 35284,
+		"bundesStimmen": 35282,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 91,
+		"bundesStimmen": 89,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bochum I",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 69,
+		"bundesStimmen": 67,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 41849,
+		"bundesStimmen": 41847,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 19038,
+		"bundesStimmen": 19040,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 33315,
+		"bundesStimmen": 33313,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 6630,
+		"bundesStimmen": 6628,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 33907,
+		"bundesStimmen": 33905,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 43,
+		"bundesStimmen": 45,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Olpe – Märkischer Kreis I",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1895,
+		"bundesStimmen": 1897,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 25226,
+		"bundesStimmen": 25224,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Gießen",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2197,
+		"bundesStimmen": 2199,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rheingau-Taunus – Limburg",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 36,
+		"bundesStimmen": 38,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Rheingau-Taunus – Limburg",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 313,
+		"bundesStimmen": 311,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 17632,
+		"bundesStimmen": 17630,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 28847,
+		"bundesStimmen": 28849,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 8826,
+		"bundesStimmen": 8824,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1416,
+		"bundesStimmen": 1418,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 78649,
+		"bundesStimmen": 78647,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 18026,
+		"bundesStimmen": 18024,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 824,
+		"bundesStimmen": 826,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "BP",
+		"wahlbezirkStimmen": 431,
+		"bundesStimmen": 429,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Starnberg – Landsberg am Lech",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1262,
+		"bundesStimmen": 1264,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 728,
+		"bundesStimmen": 726,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 4171,
+		"bundesStimmen": 4169,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 451,
+		"bundesStimmen": 449,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "BP",
+		"wahlbezirkStimmen": 308,
+		"bundesStimmen": 306,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Nürnberg-Nord",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1584,
+		"bundesStimmen": 1582,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 23881,
+		"bundesStimmen": 23879,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 10628,
+		"bundesStimmen": 10626,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 9275,
+		"bundesStimmen": 9277,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 643,
+		"bundesStimmen": 641,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 75101,
+		"bundesStimmen": 75099,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "BP",
+		"wahlbezirkStimmen": 224,
+		"bundesStimmen": 226,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 719,
+		"bundesStimmen": 717,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 559,
+		"bundesStimmen": 561,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 956,
+		"bundesStimmen": 958,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1914,
+		"bundesStimmen": 1912,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 17530,
+		"bundesStimmen": 17528,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 687,
+		"bundesStimmen": 685,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Stuttgart II",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 8087,
+		"bundesStimmen": 8085,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Böblingen",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 223,
+		"bundesStimmen": 221,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Esslingen",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 21535,
+		"bundesStimmen": 21533,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Karlsruhe-Land",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 58133,
+		"bundesStimmen": 58135,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Karlsruhe-Land",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 9723,
+		"bundesStimmen": 9721,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Karlsruhe-Land",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6746,
+		"bundesStimmen": 6744,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 14285,
+		"bundesStimmen": 14283,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 3243,
+		"bundesStimmen": 3245,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 700,
+		"bundesStimmen": 698,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bruchsal – Schwetzingen",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 36134,
+		"bundesStimmen": 36132,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 153,
+		"bundesStimmen": 155,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bodensee",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 8288,
+		"bundesStimmen": 8286,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bodensee",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 27289,
+		"bundesStimmen": 27287,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Bodensee",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 8002,
+		"bundesStimmen": 8004,
+		"diff": 2
+	},
+	{
+		"wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 12573,
+		"bundesStimmen": 12572,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 5962,
+		"bundesStimmen": 5961,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 10897,
+		"bundesStimmen": 10896,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Friesland - Wilhelmshaven - Wittmund",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1233,
+		"bundesStimmen": 1232,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "cuxhaven - stade II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 45963,
+		"bundesStimmen": 45964,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "cuxhaven - stade II",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 5824,
+		"bundesStimmen": 5823,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "cuxhaven - stade II",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 9281,
+		"bundesStimmen": 9280,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "cuxhaven - stade II",
+		"partei": "PIRATEN",
+		"wahlbezirkStimmen": 226,
+		"bundesStimmen": 225,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "cuxhaven - stade II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5730,
+		"bundesStimmen": 5729,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 18204,
+		"bundesStimmen": 18203,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "PIRATEN",
+		"wahlbezirkStimmen": 288,
+		"bundesStimmen": 287,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 28,
+		"bundesStimmen": 27,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 217,
+		"bundesStimmen": 218,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stade I - Rotenburg II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5508,
+		"bundesStimmen": 5507,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Cloppenburg - Vechta",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6221,
+		"bundesStimmen": 6220,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Lüchow-Dannenberg – Lüneburg",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 566,
+		"bundesStimmen": 565,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Gifhorn - Peine",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 6808,
+		"bundesStimmen": 6809,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Gifhorn - Peine",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 38989,
+		"bundesStimmen": 38988,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 401,
+		"bundesStimmen": 400,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hameln-Pyrmont – Holzminden",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 615,
+		"bundesStimmen": 614,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 42086,
+		"bundesStimmen": 42085,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 13823,
+		"bundesStimmen": 13824,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 538,
+		"bundesStimmen": 539,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1130,
+		"bundesStimmen": 1129,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 815,
+		"bundesStimmen": 816,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Salzgitter - Wolfenbüttel",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6405,
+		"bundesStimmen": 6404,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Helmstedt – Wolfsburg",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 685,
+		"bundesStimmen": 684,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Goslar – Northeim – Göttingen II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 43210,
+		"bundesStimmen": 43211,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Goslar – Northeim – Göttingen II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 13464,
+		"bundesStimmen": 13463,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Goslar – Northeim – Göttingen II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 722,
+		"bundesStimmen": 723,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Goslar – Northeim – Göttingen II",
+		"partei": "PIRATEN",
+		"wahlbezirkStimmen": 246,
+		"bundesStimmen": 245,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Goslar – Northeim – Göttingen II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 245,
+		"bundesStimmen": 246,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Goslar – Northeim – Göttingen II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6035,
+		"bundesStimmen": 6034,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 4942,
+		"bundesStimmen": 4941,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 4462,
+		"bundesStimmen": 4463,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 2199,
+		"bundesStimmen": 2200,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Börde – Salzlandkreis",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 796,
+		"bundesStimmen": 795,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Burgenland – Saalekreis",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 29390,
+		"bundesStimmen": 29389,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Burgenland – Saalekreis",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 5128,
+		"bundesStimmen": 5127,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mansfeld",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 69615,
+		"bundesStimmen": 69616,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Aachen 2",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 37901,
+		"bundesStimmen": 37902,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Heinsberg",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 26663,
+		"bundesStimmen": 26662,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Heinsberg",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 9856,
+		"bundesStimmen": 9855,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Heinsberg",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6077,
+		"bundesStimmen": 6076,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Düren",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 834,
+		"bundesStimmen": 835,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Düren",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1179,
+		"bundesStimmen": 1178,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Düren",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 43,
+		"bundesStimmen": 44,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Düren",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 108,
+		"bundesStimmen": 107,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 29,
+		"bundesStimmen": 30,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rhein-Erft-Kreis I",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 129,
+		"bundesStimmen": 130,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 69740,
+		"bundesStimmen": 69739,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Euskirchen – Rhein-Erft-Kreis II",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2813,
+		"bundesStimmen": 2814,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Köln III",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 33495,
+		"bundesStimmen": 33496,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Köln III",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 32523,
+		"bundesStimmen": 32522,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Köln III",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 18861,
+		"bundesStimmen": 18860,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rheinisch-Bergischer Kreis",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 33923,
+		"bundesStimmen": 33924,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Solingen - Remscheid - Wuppertal II",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2328,
+		"bundesStimmen": 2327,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Solingen - Remscheid - Wuppertal II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 668,
+		"bundesStimmen": 669,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Solingen - Remscheid - Wuppertal II",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 110,
+		"bundesStimmen": 109,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 9419,
+		"bundesStimmen": 9418,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 38,
+		"bundesStimmen": 37,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6967,
+		"bundesStimmen": 6968,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mettmann I",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 117,
+		"bundesStimmen": 118,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mettmann II",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 6817,
+		"bundesStimmen": 6816,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mettmann II",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 9159,
+		"bundesStimmen": 9158,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Mettmann II",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 249,
+		"bundesStimmen": 250,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Kleve",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 66214,
+		"bundesStimmen": 66213,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 39287,
+		"bundesStimmen": 39286,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 16091,
+		"bundesStimmen": 16092,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 7205,
+		"bundesStimmen": 7204,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 29406,
+		"bundesStimmen": 29405,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2534,
+		"bundesStimmen": 2533,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 934,
+		"bundesStimmen": 935,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Wesel I",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 739,
+		"bundesStimmen": 738,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Duisburg II",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 122,
+		"bundesStimmen": 121,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 38607,
+		"bundesStimmen": 38608,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 13759,
+		"bundesStimmen": 13760,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 31565,
+		"bundesStimmen": 31566,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 12770,
+		"bundesStimmen": 12769,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Oberhausen – Wesel III",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7331,
+		"bundesStimmen": 7330,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Essen III",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1841,
+		"bundesStimmen": 1840,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Essen III",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 989,
+		"bundesStimmen": 990,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Essen III",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 219,
+		"bundesStimmen": 218,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Essen III",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 208,
+		"bundesStimmen": 209,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Recklinghausen I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 12446,
+		"bundesStimmen": 12447,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Recklinghausen I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 25875,
+		"bundesStimmen": 25874,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Recklinghausen I",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 170,
+		"bundesStimmen": 169,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Recklinghausen II",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 30724,
+		"bundesStimmen": 30725,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Recklinghausen II",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 100,
+		"bundesStimmen": 101,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Borken I",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 25,
+		"bundesStimmen": 26,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Borken I",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 327,
+		"bundesStimmen": 326,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Borken II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 36477,
+		"bundesStimmen": 36478,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Borken II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 19904,
+		"bundesStimmen": 19903,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Herford – Minden-Lübbecke II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 17507,
+		"bundesStimmen": 17508,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Herford – Minden-Lübbecke II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 8700,
+		"bundesStimmen": 8701,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Minden-Lübbecke I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 44595,
+		"bundesStimmen": 44594,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Minden-Lübbecke I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 15378,
+		"bundesStimmen": 15379,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Minden-Lübbecke I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 7240,
+		"bundesStimmen": 7239,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Lippe I",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 1059,
+		"bundesStimmen": 1058,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Lippe I",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 33,
+		"bundesStimmen": 34,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Lippe I",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 324,
+		"bundesStimmen": 323,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Lippe I",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 8069,
+		"bundesStimmen": 8070,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Höxter – Gütersloh III – Lippe II",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 17,
+		"bundesStimmen": 16,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Paderborn",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 36233,
+		"bundesStimmen": 36232,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Paderborn",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 13550,
+		"bundesStimmen": 13551,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Paderborn",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 1171,
+		"bundesStimmen": 1170,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Paderborn",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 284,
+		"bundesStimmen": 285,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hagen – Ennepe-Ruhr-Kreis I",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 778,
+		"bundesStimmen": 779,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ennepe-Ruhr-Kreis II",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 10660,
+		"bundesStimmen": 10659,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ennepe-Ruhr-Kreis II",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 311,
+		"bundesStimmen": 312,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ennepe-Ruhr-Kreis II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 672,
+		"bundesStimmen": 673,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ennepe-Ruhr-Kreis II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 243,
+		"bundesStimmen": 242,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bochum I",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 71,
+		"bundesStimmen": 72,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Herne - Bochum II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 334,
+		"bundesStimmen": 333,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Unna I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 42845,
+		"bundesStimmen": 42844,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Unna I",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 74,
+		"bundesStimmen": 73,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 51261,
+		"bundesStimmen": 51262,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 13544,
+		"bundesStimmen": 13545,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 944,
+		"bundesStimmen": 945,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 324,
+		"bundesStimmen": 325,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 740,
+		"bundesStimmen": 741,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 299,
+		"bundesStimmen": 298,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 8202,
+		"bundesStimmen": 8203,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 96,
+		"bundesStimmen": 97,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hamm – Unna II",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 82,
+		"bundesStimmen": 81,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 66361,
+		"bundesStimmen": 66360,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 351,
+		"bundesStimmen": 352,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 245,
+		"bundesStimmen": 244,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "MERA25",
+		"wahlbezirkStimmen": 45,
+		"bundesStimmen": 46,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Soest",
+		"partei": "WERTEUNION",
+		"wahlbezirkStimmen": 97,
+		"bundesStimmen": 96,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hochsauerlandkreis",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1957,
+		"bundesStimmen": 1958,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hochsauerlandkreis",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1143,
+		"bundesStimmen": 1142,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 417,
+		"bundesStimmen": 418,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 27,
+		"bundesStimmen": 26,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Siegen-Wittgenstein",
+		"partei": "PDF",
+		"wahlbezirkStimmen": 223,
+		"bundesStimmen": 224,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Olpe – Märkischer Kreis I",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 11716,
+		"bundesStimmen": 11717,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Olpe – Märkischer Kreis I",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 8901,
+		"bundesStimmen": 8900,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Olpe – Märkischer Kreis I",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 252,
+		"bundesStimmen": 253,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 27787,
+		"bundesStimmen": 27788,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 11434,
+		"bundesStimmen": 11435,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 32475,
+		"bundesStimmen": 32474,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 417,
+		"bundesStimmen": 418,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "TEAM TODENHÖFER",
+		"wahlbezirkStimmen": 327,
+		"bundesStimmen": 328,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 650,
+		"bundesStimmen": 649,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 383,
+		"bundesStimmen": 382,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Märkischer Kreis II",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6552,
+		"bundesStimmen": 6553,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 38985,
+		"bundesStimmen": 38984,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 27358,
+		"bundesStimmen": 27359,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1518,
+		"bundesStimmen": 1517,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Kassel",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 2364,
+		"bundesStimmen": 2363,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Marburg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 27521,
+		"bundesStimmen": 27522,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Marburg",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1689,
+		"bundesStimmen": 1690,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Marburg",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 945,
+		"bundesStimmen": 944,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Marburg",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 116,
+		"bundesStimmen": 115,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Gießen",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 47076,
+		"bundesStimmen": 47077,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Gießen",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 21926,
+		"bundesStimmen": 21925,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Gießen",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 1080,
+		"bundesStimmen": 1079,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Gießen",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1548,
+		"bundesStimmen": 1547,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hochtaunus",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 25251,
+		"bundesStimmen": 25252,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hochtaunus",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1773,
+		"bundesStimmen": 1772,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hochtaunus",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 629,
+		"bundesStimmen": 630,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Hochtaunus",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1292,
+		"bundesStimmen": 1291,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rheingau-Taunus – Limburg",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 30840,
+		"bundesStimmen": 30839,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rheingau-Taunus – Limburg",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 22141,
+		"bundesStimmen": 22142,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rheingau-Taunus – Limburg",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1647,
+		"bundesStimmen": 1646,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rheingau-Taunus – Limburg",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 147,
+		"bundesStimmen": 148,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Altötting",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 33186,
+		"bundesStimmen": 33187,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 70009,
+		"bundesStimmen": 70010,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Erding – Ebersberg",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 128,
+		"bundesStimmen": 129,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 19813,
+		"bundesStimmen": 19812,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 7349,
+		"bundesStimmen": 7350,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1410,
+		"bundesStimmen": 1411,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "BP",
+		"wahlbezirkStimmen": 302,
+		"bundesStimmen": 301,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 1034,
+		"bundesStimmen": 1033,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 114,
+		"bundesStimmen": 113,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Ingolstadt",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 30,
+		"bundesStimmen": 31,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 17585,
+		"bundesStimmen": 17584,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 7506,
+		"bundesStimmen": 7507,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 5716,
+		"bundesStimmen": 5717,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 513,
+		"bundesStimmen": 512,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bad Tölz-Wolfratshausen – Miesbach",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 103,
+		"bundesStimmen": 104,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Traunstein",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 11218,
+		"bundesStimmen": 11217,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Traunstein",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 7514,
+		"bundesStimmen": 7515,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Traunstein",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 1002,
+		"bundesStimmen": 1001,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Traunstein",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 661,
+		"bundesStimmen": 662,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Traunstein",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5906,
+		"bundesStimmen": 5905,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 148,
+		"bundesStimmen": 147,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Regensburg",
+		"partei": "BÜNDNIS DEUTSCHLAND",
+		"wahlbezirkStimmen": 207,
+		"bundesStimmen": 206,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 55093,
+		"bundesStimmen": 55094,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Weiden",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 346,
+		"bundesStimmen": 347,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bayreuth",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 4988,
+		"bundesStimmen": 4987,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bayreuth",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 7604,
+		"bundesStimmen": 7605,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Fürth",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 71335,
+		"bundesStimmen": 71334,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Nord",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 23567,
+		"bundesStimmen": 23568,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Nord",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 29684,
+		"bundesStimmen": 29683,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Nord",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 1762,
+		"bundesStimmen": 1761,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 43913,
+		"bundesStimmen": 43914,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 4871,
+		"bundesStimmen": 4872,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 11683,
+		"bundesStimmen": 11682,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1506,
+		"bundesStimmen": 1507,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "BP",
+		"wahlbezirkStimmen": 86,
+		"bundesStimmen": 87,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürnberg-Süd",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 104,
+		"bundesStimmen": 105,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 7483,
+		"bundesStimmen": 7482,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 35444,
+		"bundesStimmen": 35443,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1819,
+		"bundesStimmen": 1818,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "DIE PARTEI",
+		"wahlbezirkStimmen": 754,
+		"bundesStimmen": 753,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 658,
+		"bundesStimmen": 657,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Roth",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 28,
+		"bundesStimmen": 27,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 58807,
+		"bundesStimmen": 58806,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 19696,
+		"bundesStimmen": 19697,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 6832,
+		"bundesStimmen": 6833,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 29411,
+		"bundesStimmen": 29410,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1510,
+		"bundesStimmen": 1509,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Aschaffenburg",
+		"partei": "BP",
+		"wahlbezirkStimmen": 235,
+		"bundesStimmen": 236,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bad Kissingen",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 33,
+		"bundesStimmen": 34,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 64166,
+		"bundesStimmen": 64165,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 18706,
+		"bundesStimmen": 18705,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 8468,
+		"bundesStimmen": 8467,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 683,
+		"bundesStimmen": 682,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Schweinfurt",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 112,
+		"bundesStimmen": 111,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 41916,
+		"bundesStimmen": 41917,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 24310,
+		"bundesStimmen": 24311,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 558,
+		"bundesStimmen": 557,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "PDH",
+		"wahlbezirkStimmen": 138,
+		"bundesStimmen": 139,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 94,
+		"bundesStimmen": 93,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Augsburg-Stadt",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5830,
+		"bundesStimmen": 5831,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "CSU",
+		"wahlbezirkStimmen": 65850,
+		"bundesStimmen": 65849,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 19105,
+		"bundesStimmen": 19104,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 15921,
+		"bundesStimmen": 15920,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Neu-Ulm",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 737,
+		"bundesStimmen": 738,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 42314,
+		"bundesStimmen": 42315,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 14421,
+		"bundesStimmen": 14422,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stuttgart I",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 93,
+		"bundesStimmen": 94,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stuttgart II",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 37213,
+		"bundesStimmen": 37214,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stuttgart II",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 987,
+		"bundesStimmen": 986,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Stuttgart II",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 218,
+		"bundesStimmen": 219,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Böblingen",
+		"partei": "ÖDP",
+		"wahlbezirkStimmen": 328,
+		"bundesStimmen": 329,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Böblingen",
+		"partei": "BÜNDNIS C",
+		"wahlbezirkStimmen": 421,
+		"bundesStimmen": 422,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürtingen",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 31028,
+		"bundesStimmen": 31029,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Nürtingen",
+		"partei": "DIE LINKE",
+		"wahlbezirkStimmen": 9952,
+		"bundesStimmen": 9951,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Göppingen",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 6138,
+		"bundesStimmen": 6137,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Karlsruhe-Land",
+		"partei": "GRÜNE",
+		"wahlbezirkStimmen": 23377,
+		"bundesStimmen": 23378,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Karlsruhe-Land",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 33394,
+		"bundesStimmen": 33393,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Karlsruhe-Land",
+		"partei": "BÜNDNIS C",
+		"wahlbezirkStimmen": 409,
+		"bundesStimmen": 408,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rastatt",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 54348,
+		"bundesStimmen": 54349,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rastatt",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 23553,
+		"bundesStimmen": 23552,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rastatt",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 36772,
+		"bundesStimmen": 36771,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Rastatt",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 2610,
+		"bundesStimmen": 2611,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 61952,
+		"bundesStimmen": 61951,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 8158,
+		"bundesStimmen": 8157,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 40150,
+		"bundesStimmen": 40149,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Odenwald – Tauber",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1476,
+		"bundesStimmen": 1475,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bruchsal – Schwetzingen",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 23131,
+		"bundesStimmen": 23130,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "CDU",
+		"wahlbezirkStimmen": 56001,
+		"bundesStimmen": 56002,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 719,
+		"bundesStimmen": 718,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "FREIE WÄHLER",
+		"wahlbezirkStimmen": 3183,
+		"bundesStimmen": 3182,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Offenburg",
+		"partei": "TIERSCHUTZPARTEI",
+		"wahlbezirkStimmen": 1563,
+		"bundesStimmen": 1564,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Reutlingen",
+		"partei": "SPD",
+		"wahlbezirkStimmen": 21625,
+		"bundesStimmen": 21626,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Reutlingen",
+		"partei": "FDP",
+		"wahlbezirkStimmen": 10604,
+		"bundesStimmen": 10605,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Reutlingen",
+		"partei": "AFD",
+		"wahlbezirkStimmen": 34596,
+		"bundesStimmen": 34595,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Reutlingen",
+		"partei": "VOLT",
+		"wahlbezirkStimmen": 994,
+		"bundesStimmen": 993,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bodensee",
+		"partei": "DIEBASIS",
+		"wahlbezirkStimmen": 508,
+		"bundesStimmen": 507,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bodensee",
+		"partei": "MLPD",
+		"wahlbezirkStimmen": 49,
+		"bundesStimmen": 50,
+		"diff": 1
+	},
+	{
+		"wahlbezirk": "Bodensee",
+		"partei": "BSW",
+		"wahlbezirkStimmen": 5848,
+		"bundesStimmen": 5847,
+		"diff": 1
+	}
 ]
