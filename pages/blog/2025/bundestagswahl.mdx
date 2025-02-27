@@ -1,5 +1,5 @@
 ---
-title: Fehlende Stimmen bei der Bundestagswahl 2025
+title: Fehlende Stimmen bei der Bundestagswahl 2025?
 date: 2025/02/26
 author: Samuel Scheit
 description: Eine Datenanalyse der Stimmen von allen 299 Wahlkreisen in Deutschland zur Bundestagswahl 2025
@@ -216,6 +216,13 @@ import Bundeswahlleiterin from "./bundestagswahl/bundeswahlleiterin.png";
 
 <Image src={Bundeswahlleiterin} style={{ height: "fit-content", margin: "0" }} />
 
+<p>
+	<span>Die Skripte und die archivierten Daten sind auch alle auf GitHub zu finden:</span>
+	<Link href="https://github.com/SamuelScheit/bundestagswahl2025">
+		<span>github.com/SamuelScheit/bundestagswahl2025</span>
+	</Link>
+</p>
+
 ## Ausblick
 
 In Zukunft könnte der Vergleich auch noch auf Direktmandate ausgeweitet werden.
@@ -223,3 +230,5 @@ In Zukunft könnte der Vergleich auch noch auf Direktmandate ausgeweitet werden.
 Ich habe hier drauf verzichtet, weil kleine Fehler beim Direktmandat keine Auswirkungen haben, da nur der Kandidat in den Bundestag einzieht, der die meisten Stimmen in seinem Wahlkreis hat. Außerdem würden grobe Fehler dem Direktkandidaten sofort auffallen.
 
 Wenn man die Auswertung noch weiter in der Tiefe betreiben möchte, dann könnte man nicht nur die Bundeswahlleiter Ergebnisse überprüfen, sondern auch die Kreiswahlergebnisse. Indem man die Stimmen aus den einzelnen Gemeinden aggregiert und vergleicht.
+
+Das Problem dabei ist, dass einige Gemeinden die Ergebnisse nicht online zur Verfügung stellen oder in einem eigenen Format, was die Automatisierung erschwert.
