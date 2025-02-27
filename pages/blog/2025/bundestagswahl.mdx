@@ -51,13 +51,10 @@ import NextImage from "next/image";
 
 <Wahlkreise style={{ maxHeight: "40vh", width: "30%", float: "left", marginRight: "1rem" }} />
 
-Damit ich jetzt nicht alle 299 Wahlkreise händisch überprüfen muss, habe ich mir ein Skript geschrieben, dass die Daten von der Seite der Bundeswahlleiterin herunterlädt und verarbeiten kann.
+Damit ich die Daten aller 299 Wahlkreise nicht händisch überprüfen musste, wollte ich den Vergleich automatisieren.
 
-Jetzt fehlen nur noch die Daten der Wahlkreise und das Vergleichen kann beginnen. Leichter gesagt als getan, denn die Daten der Gemeinden und Wahlkreisen stehen nicht an einer zentralen Stelle zur Verfügung und haben kein einheitliches Format.
-
-Also ging ich die Liste der Wahlkreise durch, suchte nach dem Namen und fand sehr viele Nachrichtenartikel. Leider benutzten die meistens die Bundeswahlleiterin oder eine Hochrechnung als Quelle, und nicht die Original Daten des Wahlkreises.
-
-Also musste ich zunächst Herausfinden welche Gemeinde als Wahlleiter für den Kreis zuständig ist (stand meistens auf Wikipedia) und suchte dann auf der Website der Gemeinde nach den original Auszählungsdaten.
+Dafür benötigte ich jedoch zunächst die Originaldaten.
+Um diese zu finden, musste ich für jeden Wahlkreis zunächst auf Wikipedia die zuständige Wahlkreisleitung ermitteln und anschließend auf der Website der jeweiligen Gemeinde nach den originalen Auszählungsdaten suchen.
 
 ## Wahlsoftware Anbieter
 
@@ -231,4 +228,4 @@ Ich habe hier drauf verzichtet, weil kleine Fehler beim Direktmandat keine Auswi
 
 Wenn man die Auswertung noch weiter in der Tiefe betreiben möchte, dann könnte man nicht nur die Bundeswahlleiter Ergebnisse überprüfen, sondern auch die Kreiswahlergebnisse. Indem man die Stimmen aus den einzelnen Gemeinden aggregiert und vergleicht.
 
-Das Problem dabei ist, dass einige Gemeinden die Ergebnisse nicht online zur Verfügung stellen oder in einem eigenen Format, was die Automatisierung erschwert.
+Das Problem dabei ist, dass einige Gemeinden die Ergebnisse nicht online zur Verfügung stellen oder in einem eigenen Format veröffentlichen, dass die Automatisierung erschwert.
