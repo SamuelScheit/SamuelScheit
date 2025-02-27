@@ -96,7 +96,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 	const date = new Date(frontMatter.date);
 	const tags: string[] = frontMatter.tags?.split(", ") ?? [];
 	const { language } = frontMatter;
-	const isEn = language === "en";
+	const isEn = language !== "de";
 
 	const ref = useRef<HTMLHeadingElement>(null);
 	const title = `${pageTitle}${config.titleSuffix || ""}`;
