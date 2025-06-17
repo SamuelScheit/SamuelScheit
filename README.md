@@ -16,3 +16,8 @@
 </p>
 
 
+<a href="https://wakatime.com/@SamuelScheit">
+<div align="center">
+<img src="https://wakatime.com/share/@SamuelScheit/d2a669b6-9639-49db-92f3-c2baa4447608.svg" />
+</div>
+</a>
