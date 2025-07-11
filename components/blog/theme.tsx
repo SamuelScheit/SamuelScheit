@@ -175,7 +175,7 @@ export default function Layout({ children, pageOpts, pageProps, themeConfig }: N
 									>
 										GitHub
 									</ExternalLink>{" "}
-									💚
+									🫶
 								</div>
 								<div>
 									{isEn

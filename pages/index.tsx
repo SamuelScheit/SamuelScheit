@@ -28,7 +28,7 @@ export default function Home(props: any) {
 					<About />
 					<Contact />
 				</div>
-				<div className="links-wrapper" style={{ width: "100px" }}></div>
+				<div className="links-wrapper" style={{ width: "100px",zIndex:-1 }}></div>
 				<div className="honeypot" style={{ display: "none" }}>
 					<a href="mailto:bluestacksplayer380@icloud.com">bluestacksplayer380@icloud.com</a>
 					<a href="mailto:bluestacksplayer380@gmail.com">bluestacksplayer380@gmail.com</a>
