@@ -5,7 +5,7 @@ import DiscordBotClient from "../public/projects/discord_bot_client.png";
 import CarcassonneAI from "../public/projects/carcassonne_ai.png";
 import Fingerprinting from "../public/projects/fingerprinting.png";
 import PuppeteerStream from "../public/projects/puppeteer_stream.png";
-import { Link } from "./Link";
+import Link from "next/link";
 
 export function Card(props: { href?: string; children: ReactNode }) {
 	return (
@@ -51,37 +51,39 @@ export function Projects() {
 
 	return (
 		<section className="projects" id="projects">
-			<h2
-				style={{
-					fontSize: "4rem",
-					textAlign: "center",
-					marginTop: "4rem",
-					marginBottom: "4rem",
-				}}
-			>
-				Projects
-			</h2>
+				<h2
+					style={{
+						fontSize: "4rem",
+						textAlign: "center",
+						marginTop: "4rem",
+						marginBottom: "4rem",
+					}}
+				>
+					Projects
+				</h2>
+			<div className="projects-container">
 
-			<div className="list">
-				<Card href="https://spacebar.chat">
-					<Image style={{ aspectRatio: "2 / 1" }} src={Spacebar} alt="Spacebar" />
-				</Card>
-				<Card href="https://github.com/SamuelScheit/discord-bot-client">
-					<Image style={{ aspectRatio: "2 / 1" }} src={DiscordBotClient} alt="Discord Bot Client" />
-				</Card>
-				<Card href="https://github.com/SamuelScheit/puppeteer-stream">
-					<Image style={{ aspectRatio: "2 / 1" }} src={PuppeteerStream} alt="Puppeteer stream" />
-				</Card>
-				<Card href="https://github.com/SamuelScheit/fingerprinting">
-					<Image style={{ aspectRatio: "2 / 1" }} src={Fingerprinting} alt="Browser Fingerprinting" />
-				</Card>
-			</div>
+				<div className="list">
+					<Card href="https://spacebar.chat">
+						<Image style={{ aspectRatio: "2 / 1" }} src={Spacebar} alt="Spacebar" />
+					</Card>
+					<Card href="https://github.com/SamuelScheit/discord-bot-client">
+						<Image style={{ aspectRatio: "2 / 1" }} src={DiscordBotClient} alt="Discord Bot Client" />
+					</Card>
+					<Card href="https://github.com/SamuelScheit/puppeteer-stream">
+						<Image style={{ aspectRatio: "2 / 1" }} src={PuppeteerStream} alt="Puppeteer stream" />
+					</Card>
+					<Card href="https://github.com/SamuelScheit/fingerprinting">
+						<Image style={{ aspectRatio: "2 / 1" }} src={Fingerprinting} alt="Browser Fingerprinting" />
+					</Card>
+				</div>
 
-			<div style={{ textAlign: "center", fontSize: "1.4rem", fontWeight: 600, marginTop: "5rem", color: "var(--text-secondary)" }}>
-				You can find many more of my projects on{" "}
-				<Link href="https://github.com/SamuelScheit/" className="hover-animation" style={{ color: "var(--text)" }}>
-					GitHub
-				</Link>
+				<div className="more-button-container">
+					<Link href="/github" className="more-button">
+						More
+					</Link>
+				</div>
+				<div className="fade-shadow"></div>
 			</div>
 		</section>
 	);

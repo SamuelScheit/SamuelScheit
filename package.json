@@ -30,15 +30,22 @@
 		"build": "next build && next-export-optimize-images && next-sitemap --config next-sitemap.config.mjs && cp .next/static/chunks/nextra-page-map-.mjs public/nextra-page-map.mjs",
 		"start": "next start",
 		"lint": "next lint",
-		"screenshot": "node screenshot.js"
+		"screenshot": "node screenshot.js",
+		"github:download": "node github/download.ts",
+		"github:update-details": "node github/download.ts --update-details",
+		"github:skip-discovery": "node github/download.ts --skip-discovery"
 	},
 	"devDependencies": {
 		"@octokit/core": "^6.1.2",
 		"@octokit/plugin-paginate-graphql": "^5.2.4",
 		"@tailwindcss/typography": "^0.5.15",
+		"@types/cli-progress": "^3.11.6",
 		"@types/react": "^18.3.11",
 		"@types/react-dom": "^18.3.0",
 		"autoprefixer": "^10.4.20",
+		"cli-progress": "^3.12.0",
+		"date-fns": "^4.1.0",
+		"p-queue": "^8.1.0",
 		"postcss": "^8.4.47",
 		"postcss-lightningcss": "^1.0.1",
 		"tailwindcss": "^3.4.13",

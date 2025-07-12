@@ -35,17 +35,14 @@ export const pageMap = [{
     children: [{
       name: "bundestagswahl",
       route: "/blog/2025/bundestagswahl",
-      children: [{
-        name: "index",
-        route: "/blog/2025/bundestagswahl",
-        frontMatter: {
-          "title": "Fehlende Stimmen bei der Bundestagswahl 2025",
-          "date": "2025/02/26",
-          "author": "Samuel Scheit",
-          "description": "Eine Datenanalyse der Stimme von allen 299 Wahlkreisen in Deutschland zur Bundestagswahl 2025",
-          "tags": "bundestagswahl 2025, datascience"
-        }
-      }]
+      frontMatter: {
+        "title": "Fehlende Stimmen bei der Bundestagswahl 2025?",
+        "date": "2025/02/26",
+        "author": "Samuel Scheit",
+        "description": "Eine Datenanalyse der Stimmen von allen 299 Wahlkreisen in Deutschland zur Bundestagswahl 2025",
+        "tags": "bundestagswahl 2025, datascience",
+        "language": "de"
+      }
     }]
   }]
 }];

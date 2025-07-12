@@ -45,7 +45,7 @@ export function Hero(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDiv
 									backgroundImage: "linear-gradient(90deg, #7928CA, #FF0080)",
 								}}
 							>
-								Student
+								Freelancer
 							</h2>
 							<h2
 								style={{

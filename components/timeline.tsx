@@ -1,12 +1,56 @@
+import React, { useRef, useEffect } from "react";
+
 export function Timeline(props: React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement>) {
+	const sectionRef = useRef<HTMLDivElement>(null);
+	const trackRef = useRef<HTMLDivElement>(null);
+	const shadowTopRef = useRef<HTMLDivElement>(null);
+	const shadowBottomRef = useRef<HTMLDivElement>(null);
+
+	useEffect(() => {
+		const section = sectionRef.current;
+		if (!section) return;
+
+		function handleScroll() {
+			if (!section) return;
+			if (!trackRef.current) return;
+
+			const rect = section.getBoundingClientRect();
+			const middle = window.innerHeight / 2;
+			// Calculate offset: 0 until timeline reaches middle, then increase
+			const offset = rect.top * -1;
+			trackRef.current!.style.top = `${offset}px`;
+
+			// Show/hide shadows based on scroll position
+			const sectionTop = rect.top;
+			const sectionBottom = rect.bottom;
+			const windowHeight = window.innerHeight;
+
+			// Show top shadow when we can scroll up (section is below top of viewport)
+			if (shadowTopRef.current) {
+				shadowTopRef.current.style.opacity = sectionTop < 0 ? "1" : "0";
+			}
+
+			// Show bottom shadow when we can scroll down (section extends below viewport)
+			if (shadowBottomRef.current) {
+				shadowBottomRef.current.style.opacity = sectionBottom > windowHeight ? "1" : "0";
+			}
+		}
+
+		window.addEventListener("scroll", handleScroll, { passive: true });
+		handleScroll();
+		return () => window.removeEventListener("scroll", handleScroll);
+	}, []);
+
 	return (
-		<section style={{ zIndex: 0 }} {...props} className="timeline">
+		<section ref={sectionRef} style={{ zIndex: 0 }} {...props} className="timeline">
 			<div className="bar">
 				<div className="overlay-fade-top" />
-				<div className="track"></div>
+				<div ref={trackRef} className="track"></div>
 				<div className="overlay-fade-bottom" />
 			</div>
+			<div ref={shadowTopRef} className="shadow-top" />
 			{props.children}
+			<div ref={shadowBottomRef} className="shadow-bottom" />
 		</section>
 	);
 }

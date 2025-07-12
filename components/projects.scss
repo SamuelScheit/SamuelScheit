@@ -1,6 +1,56 @@
 .projects {
 	max-width: var(--container);
 	padding: 2rem;
+	position: relative;
+
+	.projects-container {
+		position: relative;
+	}
+
+	.fade-shadow {
+		position: absolute;
+		bottom: 0rem;
+		left: 0;
+		right: 0;
+		height: 7rem;
+		background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 1));
+		pointer-events: none;
+		z-index: 3;
+	}
+
+	.more-button-container {
+		display: flex;
+		justify-content: center;
+		margin-top: 3rem;
+		margin-bottom: 2rem;
+		position: relative;
+		z-index: 2;
+	}
+
+	.more-button {
+		display: inline-block;
+		padding: 1rem 2rem;
+		background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+		color: white;
+		text-decoration: none;
+		border-radius: 50px;
+		font-size: 1.2rem;
+		font-weight: 600;
+		transition: all 0.3s ease;
+		box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+		border: none;
+		cursor: pointer;
+
+		&:hover {
+			transform: translateY(-2px);
+			box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+			background: linear-gradient(135deg, #5a6fd8 0%, #6a4190 100%);
+		}
+
+		&:active {
+			transform: translateY(0);
+		}
+	}
 
 	.list {
 		display: grid;
