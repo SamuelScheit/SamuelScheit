@@ -83,7 +83,6 @@ export function Projects() {
 						More
 					</Link>
 				</div>
-				<div className="fade-shadow"></div>
 			</div>
 		</section>
 	);

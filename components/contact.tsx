@@ -25,7 +25,6 @@ export function Contact() {
 					</a>
 					.
 				</div>
-				<input type="checkbox" name="botcheck" id="" style={{ display: "none" }} />
 				<input type="submit" id="submit" value="Send" />
 				<input type="checkbox" name="botcheck" className="hidden" style={{ display: "none" }} />
 			</form>
